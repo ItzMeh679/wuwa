@@ -1,0 +1,449 @@
+[
+    {
+        "id": "freezing-frost",
+        "name": "Freezing Frost",
+        "pieces": {
+            "2": "Glacio DMG +10%",
+            "5": "Glacio DMG +10% after releasing Basic Attack or Heavy Attack. Stacks 3 times, each lasting 6s."
+        },
+        "element": "glacio",
+        "echoCount": 14,
+        "recommended": [
+            "carlotta",
+            "lingyang",
+            "sanhua",
+            "qiuyuan",
+            "zhezhi",
+            "baizhi"
+        ]
+    },
+    {
+        "id": "molten-rift",
+        "name": "Molten Rift",
+        "pieces": {
+            "2": "Fusion DMG +10%",
+            "5": "Fusion DMG +30% for 15s after releasing Resonance Skill."
+        },
+        "element": "fusion",
+        "echoCount": 14,
+        "recommended": [
+            "changli",
+            "encore",
+            "brant",
+            "lupa",
+            "chisa",
+            "galbrena",
+            "aemeath",
+            "zani",
+            "mornye"
+        ]
+    },
+    {
+        "id": "void-thunder",
+        "name": "Void Thunder",
+        "pieces": {
+            "2": "Electro DMG +10%",
+            "5": "Electro DMG +15% after releasing Heavy Attack or Resonance Skill. Stacks 2 times, each lasting 15s."
+        },
+        "element": "electro",
+        "echoCount": 16,
+        "recommended": [
+            "calcharo",
+            "yinlin",
+            "xiangli-yao",
+            "augusta",
+            "buling",
+            "lumi"
+        ]
+    },
+    {
+        "id": "sierra-gale",
+        "name": "Sierra Gale",
+        "pieces": {
+            "2": "Aero DMG +10%",
+            "5": "Aero DMG +30% for 15s after releasing Intro Skill."
+        },
+        "element": "aero",
+        "echoCount": 14,
+        "recommended": [
+            "jiyan",
+            "jianxin",
+            "ciaccona",
+            "cartethyia",
+            "lynae",
+            "rover-aero",
+            "phrolova"
+        ]
+    },
+    {
+        "id": "celestial-light",
+        "name": "Celestial Light",
+        "pieces": {
+            "2": "Spectro DMG +10%",
+            "5": "Spectro DMG +30% for 15s after releasing Intro Skill."
+        },
+        "element": "spectro",
+        "echoCount": 15,
+        "recommended": [
+            "jinhsi",
+            "phoebe",
+            "rover-spectro"
+        ]
+    },
+    {
+        "id": "havoc-eclipse",
+        "name": "Havoc Eclipse",
+        "pieces": {
+            "2": "Havoc DMG +10%",
+            "5": "Havoc DMG +7.5% after releasing Basic Attack or Heavy Attack. Stacks 4 times, each lasting 6s."
+        },
+        "element": "havoc",
+        "echoCount": 13,
+        "recommended": [
+            "danjin",
+            "rover-havoc",
+            "camellya"
+        ]
+    },
+    {
+        "id": "midnight-veil",
+        "name": "Midnight Veil",
+        "pieces": {
+            "2": "Havoc DMG +10%",
+            "5": "When Intro Skill is used, Havoc DMG +20% and Resonance Skill DMG +20% for 15s."
+        },
+        "element": "havoc",
+        "echoCount": 13,
+        "recommended": [
+            "camellya",
+            "cantarella",
+            "roccia",
+            "rover-havoc",
+            "danjin"
+        ]
+    },
+    {
+        "id": "rejuvenating-glow",
+        "name": "Rejuvenating Glow",
+        "pieces": {
+            "2": "Healing Bonus +10%",
+            "5": "Increases ATK by 15% for all party members for 30s upon healing a teammate."
+        },
+        "element": null,
+        "echoCount": 14,
+        "recommended": [
+            "verina",
+            "baizhi",
+            "shorekeeper",
+            "phrolova"
+        ]
+    },
+    {
+        "id": "moonlit-clouds",
+        "name": "Moonlit Clouds",
+        "pieces": {
+            "2": "Energy Regen +10%",
+            "5": "Increases the ATK of the next character by 22.5% for 15s after using Outro Skill."
+        },
+        "element": null,
+        "echoCount": 14,
+        "recommended": [
+            "mortefi",
+            "sanhua",
+            "yinlin",
+            "zhezhi",
+            "roccia",
+            "aalto",
+            "yangyang"
+        ]
+    },
+    {
+        "id": "lingering-tunes",
+        "name": "Lingering Tunes",
+        "pieces": {
+            "2": "ATK +10%",
+            "5": "ATK increases by 5% every 1.5s while on the field. Stacks 4 times. Outro resets stacks."
+        },
+        "element": null,
+        "echoCount": 13,
+        "recommended": [
+            "jiyan",
+            "calcharo",
+            "encore",
+            "camellya",
+            "jinhsi",
+            "brant"
+        ]
+    },
+    {
+        "id": "empyrean-anthem",
+        "name": "Empyrean Anthem",
+        "pieces": {
+            "2": "Energy Regen +10%",
+            "5": "Increases ATK of Coordinated Attack by 80%. Upon Crit Hit, ATK further +15% for 5s."
+        },
+        "element": null,
+        "echoCount": 13,
+        "recommended": [
+            "jinhsi",
+            "shorekeeper",
+            "verina",
+            "phoebe",
+            "iuno"
+        ]
+    },
+    {
+        "id": "eternal-radiance",
+        "name": "Eternal Radiance",
+        "pieces": {
+            "2": "Spectro DMG +10%",
+            "5": "Spectro DMG +15% when in Spectro Frazzle state. Crit Rate +20% when attacking enemies with 10 stacks."
+        },
+        "element": "spectro",
+        "echoCount": 13,
+        "recommended": [
+            "jinhsi",
+            "rover-spectro"
+        ]
+    },
+    {
+        "id": "frosty-resolve",
+        "name": "Frosty Resolve",
+        "pieces": {
+            "2": "Resonance Skill DMG +12%",
+            "5": "When casting Resonance Skill on enemy, Glacio DMG +22% for 15s."
+        },
+        "element": "glacio",
+        "echoCount": 13,
+        "recommended": [
+            "carlotta",
+            "qiuyuan",
+            "zhezhi"
+        ]
+    },
+    {
+        "id": "tidebreaking-courage",
+        "name": "Tidebreaking Courage",
+        "pieces": {
+            "2": "Energy Regen +10%",
+            "5": "When Intro Skill hits, increases ATK 15% for all party members for 30s."
+        },
+        "element": null,
+        "echoCount": 13,
+        "recommended": [
+            "verina",
+            "shorekeeper",
+            "baizhi",
+            "phrolova"
+        ]
+    },
+    {
+        "id": "gusts-of-welkin",
+        "name": "Gusts of Welkin",
+        "pieces": {
+            "2": "Aero DMG +10%",
+            "5": "Aero DMG +30% for 15s after Intro Skill hits."
+        },
+        "element": "aero",
+        "echoCount": 12,
+        "recommended": [
+            "ciaccona",
+            "jiyan",
+            "cartethyia"
+        ]
+    },
+    {
+        "id": "windward-pilgrimage",
+        "name": "Windward Pilgrimage",
+        "pieces": {
+            "2": "Resonance Liberation DMG +12%",
+            "5": "Aero DMG +22% for 15s when Resonance Liberation is cast."
+        },
+        "element": "aero",
+        "echoCount": 11,
+        "recommended": [
+            "ciaccona",
+            "jiyan",
+            "lynae"
+        ]
+    },
+    {
+        "id": "flaming-clawprint",
+        "name": "Flaming Clawprint",
+        "pieces": {
+            "2": "Fusion DMG +10%",
+            "5": "Fusion DMG +22% for 15s after releasing Resonance Liberation."
+        },
+        "element": "fusion",
+        "echoCount": 12,
+        "recommended": [
+            "changli",
+            "lupa",
+            "brant",
+            "mornye"
+        ]
+    },
+    {
+        "id": "dream-of-the-lost",
+        "name": "Dream of the Lost",
+        "pieces": {
+            "2": "Havoc DMG +10%",
+            "5": "Havoc DMG +22% for 15s after Resonance Skill hits."
+        },
+        "element": "havoc",
+        "echoCount": 7,
+        "recommended": [
+            "camellya",
+            "cantarella",
+            "roccia"
+        ]
+    },
+    {
+        "id": "crown-of-valor",
+        "name": "Crown of Valor",
+        "pieces": {
+            "2": "Electro DMG +10%",
+            "5": "Electro DMG +22% for 15s after Intro Skill hits."
+        },
+        "element": "electro",
+        "echoCount": 7,
+        "recommended": [
+            "xiangli-yao",
+            "calcharo",
+            "augusta"
+        ]
+    },
+    {
+        "id": "law-of-harmony",
+        "name": "Law of Harmony",
+        "pieces": {
+            "2": "Spectro DMG +10%",
+            "5": "Spectro DMG +22% for 15s after releasing Resonance Skill."
+        },
+        "element": "spectro",
+        "echoCount": 6,
+        "recommended": [
+            "phoebe",
+            "jinhsi"
+        ]
+    },
+    {
+        "id": "flamewings-shadow",
+        "name": "Flamewing's Shadow",
+        "pieces": {
+            "2": "Fusion DMG +10%",
+            "5": "Fusion DMG +22% for 15s after Intro Skill is used."
+        },
+        "element": "fusion",
+        "echoCount": 7,
+        "recommended": [
+            "changli",
+            "encore",
+            "galbrena"
+        ]
+    },
+    {
+        "id": "pact-of-neonlight-leap",
+        "name": "Pact of Neonlight Leap",
+        "pieces": {
+            "2": "Glacio DMG +10%",
+            "5": "Glacio DMG +22% for 15s when Resonance Liberation is cast."
+        },
+        "element": "glacio",
+        "echoCount": 8,
+        "recommended": [
+            "carlotta",
+            "lingyang"
+        ]
+    },
+    {
+        "id": "halo-of-starry-radiance",
+        "name": "Halo of Starry Radiance",
+        "pieces": {
+            "2": "Energy Regen +10%",
+            "5": "Upon healing, Coordinated ATK DMG +60% for 15s."
+        },
+        "element": null,
+        "echoCount": 8,
+        "recommended": [
+            "shorekeeper",
+            "verina",
+            "baizhi"
+        ]
+    },
+    {
+        "id": "rite-of-gilded-revelation",
+        "name": "Rite of Gilded Revelation",
+        "pieces": {
+            "2": "Crit Rate +8%",
+            "5": "Crit DMG +36% after releasing Intro Skill for 15s."
+        },
+        "element": null,
+        "echoCount": 8,
+        "recommended": [
+            "jinhsi",
+            "carlotta",
+            "camellya"
+        ]
+    },
+    {
+        "id": "trailblazing-star",
+        "name": "Trailblazing Star",
+        "pieces": {
+            "2": "Fusion DMG +10%",
+            "5": "Fusion DMG +15% and Crit Rate +12% after Resonance Skill is used for 15s."
+        },
+        "element": "fusion",
+        "echoCount": 8,
+        "recommended": [
+            "changli",
+            "brant",
+            "lupa"
+        ]
+    },
+    {
+        "id": "chromatic-foam",
+        "name": "Chromatic Foam",
+        "pieces": {
+            "2": "Resonance Skill DMG +12%",
+            "5": "Heavy Attack DMG +30% for 15s after casting Resonance Skill."
+        },
+        "element": null,
+        "echoCount": 8,
+        "recommended": [
+            "jiyan",
+            "calcharo",
+            "camellya"
+        ]
+    },
+    {
+        "id": "sound-of-true-name",
+        "name": "Sound of True Name",
+        "pieces": {
+            "2": "Electro DMG +10%",
+            "5": "Electro DMG +15% and Resonance Skill DMG +18% for 15s after Intro Skill is used."
+        },
+        "element": "electro",
+        "echoCount": 8,
+        "recommended": [
+            "yinlin",
+            "xiangli-yao",
+            "calcharo"
+        ]
+    },
+    {
+        "id": "thread-of-severed-fate",
+        "name": "Thread of Severed Fate",
+        "pieces": {
+            "2": "Energy Regen +10%",
+            "5": "Resonance Liberation DMG +25%. Outro Skill DMG +40% for 15s."
+        },
+        "element": null,
+        "echoCount": 6,
+        "recommended": [
+            "mortefi",
+            "roccia",
+            "sanhua"
+        ]
+    }
+]

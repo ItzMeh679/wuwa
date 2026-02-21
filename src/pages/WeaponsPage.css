@@ -1,0 +1,125 @@
+.weapons-page {
+    padding: var(--space-12) 0 var(--space-16);
+}
+
+.page-title {
+    font-size: var(--font-size-4xl);
+    font-weight: 900;
+    margin-bottom: var(--space-2);
+}
+
+.page-subtitle {
+    color: var(--text-secondary);
+    margin-bottom: var(--space-8);
+}
+
+.weapon-type-tabs {
+    display: flex;
+    gap: var(--space-2);
+    margin-bottom: var(--space-6);
+    flex-wrap: wrap;
+}
+
+.weapon-tab {
+    padding: var(--space-2) var(--space-5);
+    border-radius: var(--radius-full);
+    font-size: var(--font-size-sm);
+    font-weight: 600;
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    color: var(--text-secondary);
+    transition: all var(--transition-fast);
+    text-transform: capitalize;
+}
+
+.weapon-tab:hover {
+    color: var(--text-primary);
+    border-color: rgba(255, 255, 255, 0.15);
+}
+
+.weapon-tab.active {
+    background: var(--accent-primary);
+    color: white;
+    border-color: var(--accent-primary);
+}
+
+.weapons-list {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-4);
+}
+
+.weapon-card {
+    padding: var(--space-6);
+}
+
+.weapon-card.r5 {
+    border-left: 3px solid var(--rarity-5);
+}
+
+.weapon-card.r4 {
+    border-left: 3px solid var(--rarity-4);
+}
+
+.weapon-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: var(--space-3);
+    flex-wrap: wrap;
+    gap: var(--space-2);
+}
+
+.weapon-name {
+    font-size: var(--font-size-lg);
+    font-weight: 700;
+}
+
+.weapon-rarity {
+    margin-top: 2px;
+}
+
+.weapon-stats-mini {
+    display: flex;
+    gap: var(--space-3);
+}
+
+.weapon-atk {
+    font-weight: 700;
+    color: var(--accent-warning);
+    font-size: var(--font-size-sm);
+}
+
+.weapon-sub {
+    font-weight: 600;
+    color: var(--text-secondary);
+    font-size: var(--font-size-sm);
+}
+
+.weapon-passive {
+    color: var(--text-secondary);
+    font-size: var(--font-size-sm);
+    line-height: 1.6;
+    margin-bottom: var(--space-3);
+}
+
+.weapon-best-for {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    align-items: center;
+}
+
+.best-label {
+    font-size: var(--font-size-xs);
+    color: var(--text-muted);
+}
+
+.best-char {
+    padding: 2px var(--space-2);
+    background: rgba(124, 58, 237, 0.12);
+    border-radius: var(--radius-full);
+    font-size: var(--font-size-xs);
+    color: var(--accent-primary);
+    text-transform: capitalize;
+}

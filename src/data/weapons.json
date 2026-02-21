@@ -1,0 +1,231 @@
+{
+    "broadblade": [
+        {
+            "id": "lustrous-razor",
+            "name": "Lustrous Razor",
+            "rarity": 5,
+            "atk": 587,
+            "stat": "Crit DMG 36.4%",
+            "passive": "Increases Heavy Attack DMG by 24%. Intro Skill hits grant ATK +12% for 15s.",
+            "bestFor": [
+                "jiyan",
+                "calcharo"
+            ]
+        },
+        {
+            "id": "verdant-summit",
+            "name": "Verdant Summit",
+            "rarity": 5,
+            "atk": 587,
+            "stat": "Crit Rate 18.2%",
+            "passive": "Heavy Attack DMG +24%. After using Resonance Skill, ATK +8% for 10s, stacks 2 times.",
+            "bestFor": [
+                "jiyan"
+            ]
+        },
+        {
+            "id": "ages-of-harvest",
+            "name": "Ages of Harvest",
+            "rarity": 5,
+            "atk": 587,
+            "stat": "Crit Rate 18.2%",
+            "passive": "Resonance Skill DMG +12%. After Intro Skill, ATK +24% for 15s.",
+            "bestFor": [
+                "jinhsi",
+                "galbrena",
+                "aemeath"
+            ]
+        },
+        {
+            "id": "helios-cleaver",
+            "name": "Helios Cleaver",
+            "rarity": 4,
+            "atk": 462,
+            "stat": "ATK 18%",
+            "passive": "Heavy Attack DMG +18%. Intro Skill restores 10 Concerto Energy.",
+            "bestFor": [
+                "jiyan",
+                "calcharo",
+                "jinhsi"
+            ]
+        }
+    ],
+    "sword": [
+        {
+            "id": "blazing-brilliance",
+            "name": "Blazing Brilliance",
+            "rarity": 5,
+            "atk": 587,
+            "stat": "Crit DMG 36.4%",
+            "passive": "Resonance Skill DMG +24%. On hit, ATK +6% for 8s, stacks 3 times.",
+            "bestFor": [
+                "changli",
+                "chisa"
+            ]
+        },
+        {
+            "id": "emerald-of-genesis",
+            "name": "Emerald of Genesis",
+            "rarity": 5,
+            "atk": 587,
+            "stat": "Crit Rate 18.2%",
+            "passive": "After using Resonance Skill, ATK +12% for 10s, stacks 2 times.",
+            "bestFor": [
+                "changli",
+                "camellya",
+                "rover-havoc",
+                "rover-spectro"
+            ]
+        },
+        {
+            "id": "red-spring",
+            "name": "Red Spring",
+            "rarity": 5,
+            "atk": 587,
+            "stat": "Crit DMG 36.4%",
+            "passive": "Heavy Attack DMG +24%. After using Heavy Attack, Basic Attack DMG +15%.",
+            "bestFor": [
+                "camellya",
+                "lupa"
+            ]
+        },
+        {
+            "id": "commando-of-conviction",
+            "name": "Commando of Conviction",
+            "rarity": 4,
+            "atk": 462,
+            "stat": "ATK 18%",
+            "passive": "Intro Skill DMG +30%. After Intro, ATK +15% for 15s.",
+            "bestFor": [
+                "sanhua",
+                "danjin",
+                "yangyang"
+            ]
+        }
+    ],
+    "pistols": [
+        {
+            "id": "static-mist",
+            "name": "Static Mist",
+            "rarity": 5,
+            "atk": 587,
+            "stat": "Crit Rate 18.2%",
+            "passive": "Resonance Skill DMG +24%. After Resonance Skill hits, ATK +12% for 10s.",
+            "bestFor": [
+                "carlotta",
+                "cartethyia",
+                "zani"
+            ]
+        },
+        {
+            "id": "the-last-dance",
+            "name": "The Last Dance",
+            "rarity": 5,
+            "atk": 587,
+            "stat": "Crit DMG 36.4%",
+            "passive": "Resonance Skill DMG +24%. After hitting with Resonance Skill, Resonance Liberation DMG +24%.",
+            "bestFor": [
+                "carlotta",
+                "cartethyia"
+            ]
+        },
+        {
+            "id": "undying-flame",
+            "name": "Undying Flame",
+            "rarity": 4,
+            "atk": 462,
+            "stat": "ATK 18%",
+            "passive": "Resonance Skill DMG +24%. On kill, HP restore 8%.",
+            "bestFor": [
+                "mortefi",
+                "chixia",
+                "aalto"
+            ]
+        }
+    ],
+    "gauntlets": [
+        {
+            "id": "abyss-surges",
+            "name": "Abyss Surges",
+            "rarity": 5,
+            "atk": 587,
+            "stat": "Crit Rate 18.2%",
+            "passive": "Heavy Attack DMG +24%. After Resonance Skill, Basic Attack DMG +15% for 8s.",
+            "bestFor": [
+                "xiangli-yao",
+                "brant",
+                "lingyang"
+            ]
+        },
+        {
+            "id": "veritys-handle",
+            "name": "Verity's Handle",
+            "rarity": 5,
+            "atk": 587,
+            "stat": "Crit DMG 36.4%",
+            "passive": "Resonance Skill DMG +24%. After Resonance Skill, Resonance Liberation DMG +24%.",
+            "bestFor": [
+                "xiangli-yao",
+                "brant",
+                "mornye"
+            ]
+        }
+    ],
+    "rectifier": [
+        {
+            "id": "stringmaster",
+            "name": "Stringmaster",
+            "rarity": 5,
+            "atk": 587,
+            "stat": "Crit Rate 18.2%",
+            "passive": "Resonance Skill DMG +24%. After using Resonance Skill, ATK +12% for 10s.",
+            "bestFor": [
+                "yinlin",
+                "zhezhi",
+                "encore",
+                "cantarella",
+                "augusta",
+                "qiuyuan"
+            ]
+        },
+        {
+            "id": "cosmic-ripples",
+            "name": "Cosmic Ripples",
+            "rarity": 5,
+            "atk": 587,
+            "stat": "ATK 18%",
+            "passive": "Resonance Skill DMG +24%. Basic Attack hits grant Resonance Skill DMG +6%, stacks 4.",
+            "bestFor": [
+                "encore",
+                "yinlin",
+                "zhezhi"
+            ]
+        },
+        {
+            "id": "stellar-symphony",
+            "name": "Stellar Symphony",
+            "rarity": 5,
+            "atk": 500,
+            "stat": "Energy Regen 32%",
+            "passive": "Healing Bonus +12%. After using Outro Skill, ATK +22% party-wide for 30s.",
+            "bestFor": [
+                "shorekeeper",
+                "verina",
+                "phoebe"
+            ]
+        },
+        {
+            "id": "variation",
+            "name": "Variation",
+            "rarity": 4,
+            "atk": 462,
+            "stat": "Energy Regen 20%",
+            "passive": "After using Resonance Skill, ATK +15% for 15s.",
+            "bestFor": [
+                "verina",
+                "baizhi",
+                "shorekeeper"
+            ]
+        }
+    ]
+}

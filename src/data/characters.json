@@ -1,0 +1,3277 @@
+[
+  {
+    "id": "jiyan",
+    "name": "Jiyan",
+    "title": "Verdant Summit's Commander",
+    "rarity": 5,
+    "element": "aero",
+    "weaponType": "broadblade",
+    "stats": {
+      "level90": {
+        "hp": 13350,
+        "atk": 412,
+        "def": 1005
+      },
+      "level1": {
+        "hp": 937,
+        "atk": 27,
+        "def": 74
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Lustrous Razor",
+        "r": 5
+      },
+      {
+        "w": "Verdant Summit",
+        "r": 5
+      },
+      {
+        "w": "Ages of Harvest",
+        "r": 5
+      },
+      {
+        "w": "Helios Cleaver",
+        "r": 4
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Sierra Gale",
+        "a": "Sierra Gale"
+      },
+      {
+        "s": "5pc Lingering Tunes",
+        "a": "Lingering Tunes"
+      },
+      {
+        "s": "3pc Sierra Gale + 2pc Moonlit Clouds",
+        "a": "Sierra Gale + Moonlit Clouds"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Aero DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Jiyan",
+          "Mortefi",
+          "Verina"
+        ]
+      },
+      {
+        "members": [
+          "Jiyan",
+          "Zhezhi",
+          "Verina"
+        ]
+      },
+      {
+        "members": [
+          "Jiyan",
+          "Yinlin",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Main DPS",
+    "roleType": "dps",
+    "images": {
+      "splash": "/images/characters/jiyan-splash.webp",
+      "icon": "/images/characters/jiyan-icon.webp"
+    }
+  },
+  {
+    "id": "changli",
+    "name": "Changli",
+    "title": "Blazing Requiem",
+    "rarity": 5,
+    "element": "fusion",
+    "weaponType": "sword",
+    "stats": {
+      "level90": {
+        "hp": 10975,
+        "atk": 437,
+        "def": 1096
+      },
+      "level1": {
+        "hp": 793,
+        "atk": 30,
+        "def": 79
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Blazing Brilliance",
+        "r": 5
+      },
+      {
+        "w": "Emerald of Genesis",
+        "r": 5
+      },
+      {
+        "w": "Commando of Conviction",
+        "r": 4
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Molten Rift",
+        "a": "Molten Rift"
+      },
+      {
+        "s": "5pc Lingering Tunes",
+        "a": "Lingering Tunes"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Fusion DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Changli",
+          "Jinhsi",
+          "Verina"
+        ]
+      },
+      {
+        "members": [
+          "Changli",
+          "Encore",
+          "Verina"
+        ]
+      },
+      {
+        "members": [
+          "Changli",
+          "Yinlin",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Main DPS / Sub-DPS",
+    "roleType": "dps",
+    "images": {
+      "splash": "/images/characters/changli-splash.webp",
+      "icon": "/images/characters/changli-icon.webp"
+    }
+  },
+  {
+    "id": "jinhsi",
+    "name": "Jinhsi",
+    "title": "The Magistrate",
+    "rarity": 5,
+    "element": "spectro",
+    "weaponType": "broadblade",
+    "stats": {
+      "level90": {
+        "hp": 11625,
+        "atk": 412,
+        "def": 1149
+      },
+      "level1": {
+        "hp": 840,
+        "atk": 28,
+        "def": 83
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Ages of Harvest",
+        "r": 5
+      },
+      {
+        "w": "Lustrous Razor",
+        "r": 5
+      },
+      {
+        "w": "Helios Cleaver",
+        "r": 4
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Eternal Radiance",
+        "a": "Eternal Radiance"
+      },
+      {
+        "s": "5pc Celestial Light",
+        "a": "Celestial Light"
+      },
+      {
+        "s": "5pc Empyrean Anthem",
+        "a": "Empyrean Anthem"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Spectro DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Jinhsi",
+          "Changli",
+          "Verina"
+        ]
+      },
+      {
+        "members": [
+          "Jinhsi",
+          "Yinlin",
+          "Shorekeeper"
+        ]
+      },
+      {
+        "members": [
+          "Jinhsi",
+          "Zhezhi",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Main DPS",
+    "roleType": "dps",
+    "images": {
+      "splash": "/images/characters/jinhsi-splash.webp",
+      "icon": "/images/characters/jinhsi-icon.webp"
+    }
+  },
+  {
+    "id": "calcharo",
+    "name": "Calcharo",
+    "title": "The Ghosthound",
+    "rarity": 5,
+    "element": "electro",
+    "weaponType": "broadblade",
+    "stats": {
+      "level90": {
+        "hp": 12225,
+        "atk": 400,
+        "def": 1005
+      },
+      "level1": {
+        "hp": 883,
+        "atk": 27,
+        "def": 74
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Lustrous Razor",
+        "r": 5
+      },
+      {
+        "w": "Verdant Summit",
+        "r": 5
+      },
+      {
+        "w": "Helios Cleaver",
+        "r": 4
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Void Thunder",
+        "a": "Void Thunder"
+      },
+      {
+        "s": "5pc Lingering Tunes",
+        "a": "Lingering Tunes"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Electro DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Calcharo",
+          "Yinlin",
+          "Verina"
+        ]
+      },
+      {
+        "members": [
+          "Calcharo",
+          "Sanhua",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Main DPS",
+    "roleType": "dps",
+    "images": {
+      "splash": "/images/characters/calcharo-splash.webp",
+      "icon": "/images/characters/calcharo-icon.webp"
+    }
+  },
+  {
+    "id": "encore",
+    "name": "Encore",
+    "title": "Woolies Maestro",
+    "rarity": 5,
+    "element": "fusion",
+    "weaponType": "rectifier",
+    "stats": {
+      "level90": {
+        "hp": 10325,
+        "atk": 412,
+        "def": 1034
+      },
+      "level1": {
+        "hp": 746,
+        "atk": 28,
+        "def": 76
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Cosmic Ripples",
+        "r": 5
+      },
+      {
+        "w": "Stringmaster",
+        "r": 5
+      },
+      {
+        "w": "Variation",
+        "r": 4
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Molten Rift",
+        "a": "Molten Rift"
+      },
+      {
+        "s": "5pc Lingering Tunes",
+        "a": "Lingering Tunes"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Fusion DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Encore",
+          "Sanhua",
+          "Verina"
+        ]
+      },
+      {
+        "members": [
+          "Encore",
+          "Mortefi",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Main DPS",
+    "roleType": "dps",
+    "images": {
+      "splash": "/images/characters/encore-splash.webp",
+      "icon": "/images/characters/encore-icon.webp"
+    }
+  },
+  {
+    "id": "camellya",
+    "name": "Camellya",
+    "title": "Thorny Blossom",
+    "rarity": 5,
+    "element": "havoc",
+    "weaponType": "sword",
+    "stats": {
+      "level90": {
+        "hp": 11175,
+        "atk": 437,
+        "def": 1005
+      },
+      "level1": {
+        "hp": 808,
+        "atk": 30,
+        "def": 74
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Emerald of Genesis",
+        "r": 5
+      },
+      {
+        "w": "Red Spring",
+        "r": 5
+      },
+      {
+        "w": "Commando of Conviction",
+        "r": 4
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Midnight Veil",
+        "a": "Midnight Veil"
+      },
+      {
+        "s": "5pc Havoc Eclipse",
+        "a": "Havoc Eclipse"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Havoc DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Camellya",
+          "Sanhua",
+          "Verina"
+        ]
+      },
+      {
+        "members": [
+          "Camellya",
+          "Yinlin",
+          "Shorekeeper"
+        ]
+      }
+    ],
+    "role": "Main DPS",
+    "roleType": "dps",
+    "images": {
+      "splash": "/images/characters/camellya-splash.webp",
+      "icon": "/images/characters/camellya-icon.webp"
+    }
+  },
+  {
+    "id": "carlotta",
+    "name": "Carlotta",
+    "title": "Icy Splendor",
+    "rarity": 5,
+    "element": "glacio",
+    "weaponType": "pistols",
+    "stats": {
+      "level90": {
+        "hp": 10650,
+        "atk": 425,
+        "def": 1068
+      },
+      "level1": {
+        "hp": 770,
+        "atk": 29,
+        "def": 78
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Static Mist",
+        "r": 5
+      },
+      {
+        "w": "The Last Dance",
+        "r": 5
+      },
+      {
+        "w": "Undying Flame",
+        "r": 4
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Frosty Resolve",
+        "a": "Frosty Resolve"
+      },
+      {
+        "s": "5pc Freezing Frost",
+        "a": "Freezing Frost"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Glacio DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Carlotta",
+          "Zhezhi",
+          "Verina"
+        ]
+      },
+      {
+        "members": [
+          "Carlotta",
+          "Sanhua",
+          "Shorekeeper"
+        ]
+      }
+    ],
+    "role": "Main DPS",
+    "roleType": "dps",
+    "images": {
+      "splash": "/images/characters/carlotta-splash.webp",
+      "icon": "/images/characters/carlotta-icon.webp"
+    }
+  },
+  {
+    "id": "shorekeeper",
+    "name": "Shorekeeper",
+    "title": "Abyssal Guardian",
+    "rarity": 5,
+    "element": "spectro",
+    "weaponType": "rectifier",
+    "stats": {
+      "level90": {
+        "hp": 14250,
+        "atk": 275,
+        "def": 1149
+      },
+      "level1": {
+        "hp": 1030,
+        "atk": 19,
+        "def": 83
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Stellar Symphony",
+        "r": 5
+      },
+      {
+        "w": "Variation",
+        "r": 4
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Rejuvenating Glow",
+        "a": "Rejuvenating Glow"
+      },
+      {
+        "s": "5pc Tidebreaking Courage",
+        "a": "Tidebreaking Courage"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "HP%",
+        "echo3": "HP%",
+        "echo1": "HP%"
+      },
+      "sub": [
+        "HP%",
+        "Energy Regen",
+        "DEF%",
+        "ATK%"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Jinhsi",
+          "Changli",
+          "Shorekeeper"
+        ]
+      },
+      {
+        "members": [
+          "Camellya",
+          "Yinlin",
+          "Shorekeeper"
+        ]
+      },
+      {
+        "members": [
+          "Carlotta",
+          "Zhezhi",
+          "Shorekeeper"
+        ]
+      }
+    ],
+    "role": "Healer / Support",
+    "roleType": "support",
+    "images": {
+      "splash": "/images/characters/shorekeeper-splash.webp",
+      "icon": "/images/characters/shorekeeper-icon.webp"
+    }
+  },
+  {
+    "id": "verina",
+    "name": "Verina",
+    "title": "Herbalist of Life",
+    "rarity": 5,
+    "element": "spectro",
+    "weaponType": "rectifier",
+    "stats": {
+      "level90": {
+        "hp": 12825,
+        "atk": 275,
+        "def": 1096
+      },
+      "level1": {
+        "hp": 927,
+        "atk": 19,
+        "def": 79
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Variation",
+        "r": 4
+      },
+      {
+        "w": "Stellar Symphony",
+        "r": 5
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Rejuvenating Glow",
+        "a": "Rejuvenating Glow"
+      },
+      {
+        "s": "5pc Moonlit Clouds",
+        "a": "Moonlit Clouds"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "ATK%",
+        "echo3": "ATK%",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "ATK%",
+        "Energy Regen",
+        "HP%",
+        "DEF%"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Jiyan",
+          "Mortefi",
+          "Verina"
+        ]
+      },
+      {
+        "members": [
+          "Jinhsi",
+          "Changli",
+          "Verina"
+        ]
+      },
+      {
+        "members": [
+          "Calcharo",
+          "Yinlin",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Healer / Support",
+    "roleType": "support",
+    "images": {
+      "splash": "/images/characters/verina-splash.webp",
+      "icon": "/images/characters/verina-icon.webp"
+    }
+  },
+  {
+    "id": "yinlin",
+    "name": "Yinlin",
+    "title": "Shadow Puppeteer",
+    "rarity": 5,
+    "element": "electro",
+    "weaponType": "rectifier",
+    "stats": {
+      "level90": {
+        "hp": 10325,
+        "atk": 400,
+        "def": 1034
+      },
+      "level1": {
+        "hp": 746,
+        "atk": 27,
+        "def": 76
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Stringmaster",
+        "r": 5
+      },
+      {
+        "w": "Cosmic Ripples",
+        "r": 5
+      },
+      {
+        "w": "Variation",
+        "r": 4
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Moonlit Clouds",
+        "a": "Moonlit Clouds"
+      },
+      {
+        "s": "5pc Void Thunder",
+        "a": "Void Thunder"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Electro DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Calcharo",
+          "Yinlin",
+          "Verina"
+        ]
+      },
+      {
+        "members": [
+          "Jinhsi",
+          "Yinlin",
+          "Shorekeeper"
+        ]
+      },
+      {
+        "members": [
+          "Camellya",
+          "Yinlin",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Sub-DPS",
+    "roleType": "sub-dps",
+    "images": {
+      "splash": "/images/characters/yinlin-splash.webp",
+      "icon": "/images/characters/yinlin-icon.webp"
+    }
+  },
+  {
+    "id": "sanhua",
+    "name": "Sanhua",
+    "title": "Frosty Blade",
+    "rarity": 4,
+    "element": "glacio",
+    "weaponType": "sword",
+    "stats": {
+      "level90": {
+        "hp": 8775,
+        "atk": 300,
+        "def": 862
+      },
+      "level1": {
+        "hp": 634,
+        "atk": 20,
+        "def": 64
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Commando of Conviction",
+        "r": 4
+      },
+      {
+        "w": "Emerald of Genesis",
+        "r": 5
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Moonlit Clouds",
+        "a": "Moonlit Clouds"
+      },
+      {
+        "s": "5pc Freezing Frost",
+        "a": "Freezing Frost"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Glacio DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Camellya",
+          "Sanhua",
+          "Verina"
+        ]
+      },
+      {
+        "members": [
+          "Encore",
+          "Sanhua",
+          "Verina"
+        ]
+      },
+      {
+        "members": [
+          "Carlotta",
+          "Sanhua",
+          "Shorekeeper"
+        ]
+      }
+    ],
+    "role": "Sub-DPS / Quickswap",
+    "roleType": "sub-dps",
+    "images": {
+      "splash": "/images/characters/sanhua-splash.webp",
+      "icon": "/images/characters/sanhua-icon.webp"
+    }
+  },
+  {
+    "id": "mortefi",
+    "name": "Mortefi",
+    "title": "Coordinator",
+    "rarity": 4,
+    "element": "fusion",
+    "weaponType": "pistols",
+    "stats": {
+      "level90": {
+        "hp": 9225,
+        "atk": 312,
+        "def": 862
+      },
+      "level1": {
+        "hp": 667,
+        "atk": 21,
+        "def": 64
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Undying Flame",
+        "r": 4
+      },
+      {
+        "w": "Static Mist",
+        "r": 5
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Moonlit Clouds",
+        "a": "Moonlit Clouds"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Fusion DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Jiyan",
+          "Mortefi",
+          "Verina"
+        ]
+      },
+      {
+        "members": [
+          "Encore",
+          "Mortefi",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Sub-DPS",
+    "roleType": "sub-dps",
+    "images": {
+      "splash": "/images/characters/mortefi-splash.webp",
+      "icon": "/images/characters/mortefi-icon.webp"
+    }
+  },
+  {
+    "id": "rover-spectro",
+    "name": "Rover (Spectro)",
+    "title": "Rover",
+    "rarity": 5,
+    "element": "spectro",
+    "weaponType": "sword",
+    "stats": {
+      "level90": {
+        "hp": 11375,
+        "atk": 375,
+        "def": 1096
+      },
+      "level1": {
+        "hp": 822,
+        "atk": 25,
+        "def": 79
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Emerald of Genesis",
+        "r": 5
+      },
+      {
+        "w": "Commando of Conviction",
+        "r": 4
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Celestial Light",
+        "a": "Celestial Light"
+      },
+      {
+        "s": "5pc Moonlit Clouds",
+        "a": "Moonlit Clouds"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Spectro DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Rover (Spectro)",
+          "Yinlin",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Main DPS / Sub-DPS",
+    "roleType": "dps",
+    "images": {
+      "splash": "/images/characters/rover-spectro-splash.webp",
+      "icon": "/images/characters/rover-spectro-icon.webp"
+    }
+  },
+  {
+    "id": "rover-havoc",
+    "name": "Rover (Havoc)",
+    "title": "Rover",
+    "rarity": 5,
+    "element": "havoc",
+    "weaponType": "sword",
+    "stats": {
+      "level90": {
+        "hp": 11375,
+        "atk": 375,
+        "def": 1096
+      },
+      "level1": {
+        "hp": 822,
+        "atk": 25,
+        "def": 79
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Emerald of Genesis",
+        "r": 5
+      },
+      {
+        "w": "Commando of Conviction",
+        "r": 4
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Havoc Eclipse",
+        "a": "Havoc Eclipse"
+      },
+      {
+        "s": "5pc Midnight Veil",
+        "a": "Midnight Veil"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Havoc DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Rover (Havoc)",
+          "Sanhua",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Main DPS",
+    "roleType": "dps",
+    "images": {
+      "splash": "/images/characters/rover-havoc-splash.webp",
+      "icon": "/images/characters/rover-havoc-icon.webp"
+    }
+  },
+  {
+    "id": "rover-aero",
+    "name": "Rover (Aero)",
+    "title": "Rover",
+    "rarity": 5,
+    "element": "aero",
+    "weaponType": "sword",
+    "stats": {
+      "level90": {
+        "hp": 11375,
+        "atk": 375,
+        "def": 1096
+      },
+      "level1": {
+        "hp": 822,
+        "atk": 25,
+        "def": 79
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Emerald of Genesis",
+        "r": 5
+      },
+      {
+        "w": "Commando of Conviction",
+        "r": 4
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Sierra Gale",
+        "a": "Sierra Gale"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Aero DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Rover (Aero)",
+          "Mortefi",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Main DPS",
+    "roleType": "dps",
+    "images": {
+      "splash": "/images/characters/rover-aero-splash.webp",
+      "icon": "/images/characters/rover-aero-icon.webp"
+    }
+  },
+  {
+    "id": "aalto",
+    "name": "Aalto",
+    "title": "Phantom Thief",
+    "rarity": 4,
+    "element": "aero",
+    "weaponType": "pistols",
+    "stats": {
+      "level90": {
+        "hp": 9225,
+        "atk": 312,
+        "def": 862
+      },
+      "level1": {
+        "hp": 667,
+        "atk": 21,
+        "def": 64
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Undying Flame",
+        "r": 4
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Sierra Gale",
+        "a": "Sierra Gale"
+      },
+      {
+        "s": "5pc Moonlit Clouds",
+        "a": "Moonlit Clouds"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Aero DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Jiyan",
+          "Aalto",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Sub-DPS",
+    "roleType": "sub-dps",
+    "images": {
+      "splash": "/images/characters/aalto-splash.webp",
+      "icon": "/images/characters/aalto-icon.webp"
+    }
+  },
+  {
+    "id": "baizhi",
+    "name": "Baizhi",
+    "title": "Gentle Healer",
+    "rarity": 4,
+    "element": "glacio",
+    "weaponType": "rectifier",
+    "stats": {
+      "level90": {
+        "hp": 12225,
+        "atk": 225,
+        "def": 862
+      },
+      "level1": {
+        "hp": 883,
+        "atk": 15,
+        "def": 64
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Variation",
+        "r": 4
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Rejuvenating Glow",
+        "a": "Rejuvenating Glow"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "HP%",
+        "echo3": "HP%",
+        "echo1": "HP%"
+      },
+      "sub": [
+        "HP%",
+        "Energy Regen",
+        "DEF%",
+        "ATK%"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Jiyan",
+          "Mortefi",
+          "Baizhi"
+        ]
+      },
+      {
+        "members": [
+          "Calcharo",
+          "Yinlin",
+          "Baizhi"
+        ]
+      }
+    ],
+    "role": "Healer",
+    "roleType": "support",
+    "images": {
+      "splash": "/images/characters/baizhi-splash.webp",
+      "icon": "/images/characters/baizhi-icon.webp"
+    }
+  },
+  {
+    "id": "chixia",
+    "name": "Chixia",
+    "title": "Blazing Pistols",
+    "rarity": 4,
+    "element": "fusion",
+    "weaponType": "pistols",
+    "stats": {
+      "level90": {
+        "hp": 8550,
+        "atk": 325,
+        "def": 862
+      },
+      "level1": {
+        "hp": 618,
+        "atk": 22,
+        "def": 64
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Undying Flame",
+        "r": 4
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Molten Rift",
+        "a": "Molten Rift"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Fusion DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Chixia",
+          "Mortefi",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Main DPS",
+    "roleType": "dps",
+    "images": {
+      "splash": "/images/characters/chixia-splash.webp",
+      "icon": "/images/characters/chixia-icon.webp"
+    }
+  },
+  {
+    "id": "danjin",
+    "name": "Danjin",
+    "title": "Crimson Sword",
+    "rarity": 4,
+    "element": "havoc",
+    "weaponType": "sword",
+    "stats": {
+      "level90": {
+        "hp": 8775,
+        "atk": 325,
+        "def": 804
+      },
+      "level1": {
+        "hp": 634,
+        "atk": 22,
+        "def": 60
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Commando of Conviction",
+        "r": 4
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Havoc Eclipse",
+        "a": "Havoc Eclipse"
+      },
+      {
+        "s": "5pc Midnight Veil",
+        "a": "Midnight Veil"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Havoc DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Danjin",
+          "Mortefi",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Sub-DPS",
+    "roleType": "sub-dps",
+    "images": {
+      "splash": "/images/characters/danjin-splash.webp",
+      "icon": "/images/characters/danjin-icon.webp"
+    }
+  },
+  {
+    "id": "jianxin",
+    "name": "Jianxin",
+    "title": "Taiji Master",
+    "rarity": 5,
+    "element": "aero",
+    "weaponType": "gauntlets",
+    "stats": {
+      "level90": {
+        "hp": 14250,
+        "atk": 262,
+        "def": 1149
+      },
+      "level1": {
+        "hp": 1030,
+        "atk": 18,
+        "def": 83
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Abyss Surges",
+        "r": 5
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Sierra Gale",
+        "a": "Sierra Gale"
+      },
+      {
+        "s": "5pc Moonlit Clouds",
+        "a": "Moonlit Clouds"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "ATK%",
+        "echo3": "Aero DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "ATK%",
+        "Energy Regen",
+        "Crit Rate",
+        "Crit DMG"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Jiyan",
+          "Jianxin",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Support / Sub-DPS",
+    "roleType": "support",
+    "images": {
+      "splash": "/images/characters/jianxin-splash.webp",
+      "icon": "/images/characters/jianxin-icon.webp"
+    }
+  },
+  {
+    "id": "lingyang",
+    "name": "Lingyang",
+    "title": "Frost Tiger",
+    "rarity": 5,
+    "element": "glacio",
+    "weaponType": "gauntlets",
+    "stats": {
+      "level90": {
+        "hp": 11625,
+        "atk": 400,
+        "def": 1096
+      },
+      "level1": {
+        "hp": 840,
+        "atk": 27,
+        "def": 79
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Abyss Surges",
+        "r": 5
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Freezing Frost",
+        "a": "Freezing Frost"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Glacio DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Lingyang",
+          "Sanhua",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Main DPS",
+    "roleType": "dps",
+    "images": {
+      "splash": "/images/characters/lingyang-splash.webp",
+      "icon": "/images/characters/lingyang-icon.webp"
+    }
+  },
+  {
+    "id": "taoqi",
+    "name": "Taoqi",
+    "title": "Shield Maiden",
+    "rarity": 4,
+    "element": "havoc",
+    "weaponType": "broadblade",
+    "stats": {
+      "level90": {
+        "hp": 12225,
+        "atk": 212,
+        "def": 1005
+      },
+      "level1": {
+        "hp": 883,
+        "atk": 14,
+        "def": 74
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Helios Cleaver",
+        "r": 4
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Moonlit Clouds",
+        "a": "Moonlit Clouds"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "DEF%",
+        "echo3": "DEF%",
+        "echo1": "DEF%"
+      },
+      "sub": [
+        "DEF%",
+        "Energy Regen",
+        "HP%",
+        "ATK%"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Encore",
+          "Taoqi",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Tank / Support",
+    "roleType": "support",
+    "images": {
+      "splash": "/images/characters/taoqi-splash.webp",
+      "icon": "/images/characters/taoqi-icon.webp"
+    }
+  },
+  {
+    "id": "yangyang",
+    "name": "Yangyang",
+    "title": "Aero Knight",
+    "rarity": 4,
+    "element": "aero",
+    "weaponType": "sword",
+    "stats": {
+      "level90": {
+        "hp": 9675,
+        "atk": 275,
+        "def": 862
+      },
+      "level1": {
+        "hp": 699,
+        "atk": 19,
+        "def": 64
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Commando of Conviction",
+        "r": 4
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Moonlit Clouds",
+        "a": "Moonlit Clouds"
+      },
+      {
+        "s": "5pc Sierra Gale",
+        "a": "Sierra Gale"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "ATK%",
+        "echo3": "ATK%",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "ATK%",
+        "Energy Regen",
+        "Crit Rate",
+        "Crit DMG"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Jiyan",
+          "Yangyang",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Support",
+    "roleType": "support",
+    "images": {
+      "splash": "/images/characters/yangyang-splash.webp",
+      "icon": "/images/characters/yangyang-icon.webp"
+    }
+  },
+  {
+    "id": "yuanwu",
+    "name": "Yuanwu",
+    "title": "Thunder Fist",
+    "rarity": 4,
+    "element": "electro",
+    "weaponType": "gauntlets",
+    "stats": {
+      "level90": {
+        "hp": 11625,
+        "atk": 237,
+        "def": 920
+      },
+      "level1": {
+        "hp": 840,
+        "atk": 16,
+        "def": 68
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Abyss Surges",
+        "r": 4
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Moonlit Clouds",
+        "a": "Moonlit Clouds"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "DEF%",
+        "echo3": "DEF%",
+        "echo1": "DEF%"
+      },
+      "sub": [
+        "DEF%",
+        "Energy Regen",
+        "HP%",
+        "ATK%"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Jinhsi",
+          "Yuanwu",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Support",
+    "roleType": "support",
+    "images": {
+      "splash": "/images/characters/yuanwu-splash.webp",
+      "icon": "/images/characters/yuanwu-icon.webp"
+    }
+  },
+  {
+    "id": "zhezhi",
+    "name": "Zhezhi",
+    "title": "Ink Painter",
+    "rarity": 5,
+    "element": "glacio",
+    "weaponType": "rectifier",
+    "stats": {
+      "level90": {
+        "hp": 10325,
+        "atk": 412,
+        "def": 1034
+      },
+      "level1": {
+        "hp": 746,
+        "atk": 28,
+        "def": 76
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Stringmaster",
+        "r": 5
+      },
+      {
+        "w": "Cosmic Ripples",
+        "r": 5
+      },
+      {
+        "w": "Variation",
+        "r": 4
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Moonlit Clouds",
+        "a": "Moonlit Clouds"
+      },
+      {
+        "s": "5pc Freezing Frost",
+        "a": "Freezing Frost"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Glacio DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Carlotta",
+          "Zhezhi",
+          "Verina"
+        ]
+      },
+      {
+        "members": [
+          "Jiyan",
+          "Zhezhi",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Sub-DPS",
+    "roleType": "sub-dps",
+    "images": {
+      "splash": "/images/characters/zhezhi-splash.webp",
+      "icon": "/images/characters/zhezhi-icon.webp"
+    }
+  },
+  {
+    "id": "xiangli-yao",
+    "name": "Xiangli Yao",
+    "title": "Electro Surgeon",
+    "rarity": 5,
+    "element": "electro",
+    "weaponType": "gauntlets",
+    "stats": {
+      "level90": {
+        "hp": 10975,
+        "atk": 425,
+        "def": 1034
+      },
+      "level1": {
+        "hp": 793,
+        "atk": 29,
+        "def": 76
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Abyss Surges",
+        "r": 5
+      },
+      {
+        "w": "Verity's Handle",
+        "r": 5
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Void Thunder",
+        "a": "Void Thunder"
+      },
+      {
+        "s": "5pc Lingering Tunes",
+        "a": "Lingering Tunes"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Electro DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Xiangli Yao",
+          "Yinlin",
+          "Verina"
+        ]
+      },
+      {
+        "members": [
+          "Xiangli Yao",
+          "Mortefi",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Main DPS",
+    "roleType": "dps",
+    "images": {
+      "splash": "/images/characters/xiangli-yao-splash.webp",
+      "icon": "/images/characters/xiangli-yao-icon.webp"
+    }
+  },
+  {
+    "id": "youhu",
+    "name": "Youhu",
+    "title": "Fortune Kitty",
+    "rarity": 4,
+    "element": "glacio",
+    "weaponType": "gauntlets",
+    "stats": {
+      "level90": {
+        "hp": 11175,
+        "atk": 237,
+        "def": 920
+      },
+      "level1": {
+        "hp": 808,
+        "atk": 16,
+        "def": 68
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Abyss Surges",
+        "r": 4
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Moonlit Clouds",
+        "a": "Moonlit Clouds"
+      },
+      {
+        "s": "5pc Rejuvenating Glow",
+        "a": "Rejuvenating Glow"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "HP%",
+        "echo3": "HP%",
+        "echo1": "HP%"
+      },
+      "sub": [
+        "HP%",
+        "Energy Regen",
+        "DEF%",
+        "ATK%"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Encore",
+          "Youhu",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Support",
+    "roleType": "support",
+    "images": {
+      "splash": "/images/characters/youhu-splash.webp",
+      "icon": "/images/characters/youhu-icon.webp"
+    }
+  },
+  {
+    "id": "lumi",
+    "name": "Lumi",
+    "title": "Electric Spark",
+    "rarity": 4,
+    "element": "electro",
+    "weaponType": "sword",
+    "stats": {
+      "level90": {
+        "hp": 9225,
+        "atk": 287,
+        "def": 920
+      },
+      "level1": {
+        "hp": 667,
+        "atk": 20,
+        "def": 68
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Commando of Conviction",
+        "r": 4
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Void Thunder",
+        "a": "Void Thunder"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Electro DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Lumi",
+          "Yinlin",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Sub-DPS",
+    "roleType": "sub-dps",
+    "images": {
+      "splash": "/images/characters/lumi-splash.webp",
+      "icon": "/images/characters/lumi-icon.webp"
+    }
+  },
+  {
+    "id": "roccia",
+    "name": "Roccia",
+    "title": "Rock Artisan",
+    "rarity": 5,
+    "element": "havoc",
+    "weaponType": "broadblade",
+    "stats": {
+      "level90": {
+        "hp": 12825,
+        "atk": 350,
+        "def": 1096
+      },
+      "level1": {
+        "hp": 927,
+        "atk": 24,
+        "def": 79
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Lustrous Razor",
+        "r": 5
+      },
+      {
+        "w": "Helios Cleaver",
+        "r": 4
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Moonlit Clouds",
+        "a": "Moonlit Clouds"
+      },
+      {
+        "s": "5pc Midnight Veil",
+        "a": "Midnight Veil"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Havoc DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Camellya",
+          "Roccia",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Sub-DPS / Support",
+    "roleType": "sub-dps",
+    "images": {
+      "splash": "/images/characters/roccia-splash.webp",
+      "icon": "/images/characters/roccia-icon.webp"
+    }
+  },
+  {
+    "id": "brant",
+    "name": "Brant",
+    "title": "Flaming Fist",
+    "rarity": 5,
+    "element": "fusion",
+    "weaponType": "gauntlets",
+    "stats": {
+      "level90": {
+        "hp": 10975,
+        "atk": 437,
+        "def": 1005
+      },
+      "level1": {
+        "hp": 793,
+        "atk": 30,
+        "def": 74
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Verity's Handle",
+        "r": 5
+      },
+      {
+        "w": "Abyss Surges",
+        "r": 5
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Molten Rift",
+        "a": "Molten Rift"
+      },
+      {
+        "s": "5pc Lingering Tunes",
+        "a": "Lingering Tunes"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Fusion DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Brant",
+          "Changli",
+          "Verina"
+        ]
+      },
+      {
+        "members": [
+          "Brant",
+          "Mortefi",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Main DPS",
+    "roleType": "dps",
+    "images": {
+      "splash": "/images/characters/brant-splash.webp",
+      "icon": "/images/characters/brant-icon.webp"
+    }
+  },
+  {
+    "id": "cantarella",
+    "name": "Cantarella",
+    "title": "Shadow Venom",
+    "rarity": 5,
+    "element": "havoc",
+    "weaponType": "rectifier",
+    "stats": {
+      "level90": {
+        "hp": 10975,
+        "atk": 400,
+        "def": 1096
+      },
+      "level1": {
+        "hp": 793,
+        "atk": 27,
+        "def": 79
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Stringmaster",
+        "r": 5
+      },
+      {
+        "w": "Variation",
+        "r": 4
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Midnight Veil",
+        "a": "Midnight Veil"
+      },
+      {
+        "s": "5pc Moonlit Clouds",
+        "a": "Moonlit Clouds"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Havoc DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Camellya",
+          "Cantarella",
+          "Shorekeeper"
+        ]
+      }
+    ],
+    "role": "Sub-DPS",
+    "roleType": "sub-dps",
+    "images": {
+      "splash": "/images/characters/cantarella-splash.webp",
+      "icon": "/images/characters/cantarella-icon.webp"
+    }
+  },
+  {
+    "id": "buling",
+    "name": "Buling",
+    "title": "Electric Bounce",
+    "rarity": 4,
+    "element": "electro",
+    "weaponType": "gauntlets",
+    "stats": {
+      "level90": {
+        "hp": 9225,
+        "atk": 312,
+        "def": 862
+      },
+      "level1": {
+        "hp": 667,
+        "atk": 21,
+        "def": 64
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Abyss Surges",
+        "r": 4
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Void Thunder",
+        "a": "Void Thunder"
+      },
+      {
+        "s": "5pc Moonlit Clouds",
+        "a": "Moonlit Clouds"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Electro DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Xiangli Yao",
+          "Buling",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Sub-DPS",
+    "roleType": "sub-dps",
+    "images": {
+      "splash": "/images/characters/buling-splash.webp",
+      "icon": "/images/characters/buling-icon.webp"
+    }
+  },
+  {
+    "id": "phoebe",
+    "name": "Phoebe",
+    "title": "Radiant Scholar",
+    "rarity": 5,
+    "element": "spectro",
+    "weaponType": "rectifier",
+    "stats": {
+      "level90": {
+        "hp": 10650,
+        "atk": 425,
+        "def": 1068
+      },
+      "level1": {
+        "hp": 770,
+        "atk": 29,
+        "def": 78
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Stellar Symphony",
+        "r": 5
+      },
+      {
+        "w": "Stringmaster",
+        "r": 5
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Empyrean Anthem",
+        "a": "Empyrean Anthem"
+      },
+      {
+        "s": "5pc Celestial Light",
+        "a": "Celestial Light"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Spectro DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Phoebe",
+          "Changli",
+          "Shorekeeper"
+        ]
+      },
+      {
+        "members": [
+          "Phoebe",
+          "Yinlin",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Main DPS",
+    "roleType": "dps",
+    "images": {
+      "splash": "/images/characters/phoebe-splash.webp",
+      "icon": "/images/characters/phoebe-icon.webp"
+    }
+  },
+  {
+    "id": "galbrena",
+    "name": "Galbrena",
+    "title": "Fusion Knight",
+    "rarity": 5,
+    "element": "fusion",
+    "weaponType": "broadblade",
+    "stats": {
+      "level90": {
+        "hp": 10300,
+        "atk": 437,
+        "def": 1112
+      },
+      "level1": {
+        "hp": 745,
+        "atk": 30,
+        "def": 80
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Lustrous Razor",
+        "r": 5
+      },
+      {
+        "w": "Ages of Harvest",
+        "r": 5
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Molten Rift",
+        "a": "Molten Rift"
+      },
+      {
+        "s": "5pc Lingering Tunes",
+        "a": "Lingering Tunes"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Fusion DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Galbrena",
+          "Changli",
+          "Verina"
+        ]
+      },
+      {
+        "members": [
+          "Galbrena",
+          "Mortefi",
+          "Shorekeeper"
+        ]
+      }
+    ],
+    "role": "Main DPS",
+    "roleType": "dps",
+    "images": {
+      "splash": "/images/characters/galbrena-splash.webp",
+      "icon": "/images/characters/galbrena-icon.webp"
+    }
+  },
+  {
+    "id": "lupa",
+    "name": "Lupa",
+    "title": "Wild Huntress",
+    "rarity": 5,
+    "element": "fusion",
+    "weaponType": "sword",
+    "stats": {
+      "level90": {
+        "hp": 10650,
+        "atk": 437,
+        "def": 1034
+      },
+      "level1": {
+        "hp": 770,
+        "atk": 30,
+        "def": 76
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Emerald of Genesis",
+        "r": 5
+      },
+      {
+        "w": "Red Spring",
+        "r": 5
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Molten Rift",
+        "a": "Molten Rift"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Fusion DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Lupa",
+          "Changli",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Main DPS",
+    "roleType": "dps",
+    "images": {
+      "splash": "/images/characters/lupa-splash.webp",
+      "icon": "/images/characters/lupa-icon.webp"
+    }
+  },
+  {
+    "id": "chisa",
+    "name": "Chisa",
+    "title": "Fusion Blade",
+    "rarity": 5,
+    "element": "fusion",
+    "weaponType": "sword",
+    "stats": {
+      "level90": {
+        "hp": 10975,
+        "atk": 425,
+        "def": 1068
+      },
+      "level1": {
+        "hp": 793,
+        "atk": 29,
+        "def": 78
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Blazing Brilliance",
+        "r": 5
+      },
+      {
+        "w": "Commando of Conviction",
+        "r": 4
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Molten Rift",
+        "a": "Molten Rift"
+      },
+      {
+        "s": "5pc Lingering Tunes",
+        "a": "Lingering Tunes"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Fusion DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Chisa",
+          "Changli",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Main DPS",
+    "roleType": "dps",
+    "images": {
+      "splash": "/images/characters/chisa-splash.webp",
+      "icon": "/images/characters/chisa-icon.webp"
+    }
+  },
+  {
+    "id": "aemeath",
+    "name": "Aemeath",
+    "title": "Sacred Flame",
+    "rarity": 5,
+    "element": "fusion",
+    "weaponType": "broadblade",
+    "stats": {
+      "level90": {
+        "hp": 12225,
+        "atk": 412,
+        "def": 1096
+      },
+      "level1": {
+        "hp": 883,
+        "atk": 28,
+        "def": 79
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Ages of Harvest",
+        "r": 5
+      },
+      {
+        "w": "Lustrous Razor",
+        "r": 5
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Molten Rift",
+        "a": "Molten Rift"
+      },
+      {
+        "s": "5pc Lingering Tunes",
+        "a": "Lingering Tunes"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Fusion DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Aemeath",
+          "Changli",
+          "Verina"
+        ]
+      },
+      {
+        "members": [
+          "Aemeath",
+          "Mortefi",
+          "Shorekeeper"
+        ]
+      }
+    ],
+    "role": "Main DPS",
+    "roleType": "dps",
+    "images": {
+      "splash": "/images/characters/aemeath-splash.webp",
+      "icon": "/images/characters/aemeath-icon.webp"
+    }
+  },
+  {
+    "id": "augusta",
+    "name": "Augusta",
+    "title": "Thunder Empress",
+    "rarity": 5,
+    "element": "electro",
+    "weaponType": "rectifier",
+    "stats": {
+      "level90": {
+        "hp": 10650,
+        "atk": 425,
+        "def": 1068
+      },
+      "level1": {
+        "hp": 770,
+        "atk": 29,
+        "def": 78
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Stringmaster",
+        "r": 5
+      },
+      {
+        "w": "Cosmic Ripples",
+        "r": 5
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Void Thunder",
+        "a": "Void Thunder"
+      },
+      {
+        "s": "5pc Lingering Tunes",
+        "a": "Lingering Tunes"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Electro DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Augusta",
+          "Yinlin",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Main DPS",
+    "roleType": "dps",
+    "images": {
+      "splash": "/images/characters/augusta-splash.webp",
+      "icon": "/images/characters/augusta-icon.webp"
+    }
+  },
+  {
+    "id": "cartethyia",
+    "name": "Cartethyia",
+    "title": "Aero Phantom",
+    "rarity": 5,
+    "element": "aero",
+    "weaponType": "pistols",
+    "stats": {
+      "level90": {
+        "hp": 10325,
+        "atk": 437,
+        "def": 1034
+      },
+      "level1": {
+        "hp": 746,
+        "atk": 30,
+        "def": 76
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Static Mist",
+        "r": 5
+      },
+      {
+        "w": "The Last Dance",
+        "r": 5
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Sierra Gale",
+        "a": "Sierra Gale"
+      },
+      {
+        "s": "5pc Lingering Tunes",
+        "a": "Lingering Tunes"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Aero DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Cartethyia",
+          "Mortefi",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Main DPS",
+    "roleType": "dps",
+    "images": {
+      "splash": "/images/characters/cartethyia-splash.webp",
+      "icon": "/images/characters/cartethyia-icon.webp"
+    }
+  },
+  {
+    "id": "ciaccona",
+    "name": "Ciaccona",
+    "title": "Wind Dancer",
+    "rarity": 5,
+    "element": "aero",
+    "weaponType": "rectifier",
+    "stats": {
+      "level90": {
+        "hp": 10975,
+        "atk": 412,
+        "def": 1096
+      },
+      "level1": {
+        "hp": 793,
+        "atk": 28,
+        "def": 79
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Cosmic Ripples",
+        "r": 5
+      },
+      {
+        "w": "Stringmaster",
+        "r": 5
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Sierra Gale",
+        "a": "Sierra Gale"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Aero DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Ciaccona",
+          "Mortefi",
+          "Verina"
+        ]
+      },
+      {
+        "members": [
+          "Ciaccona",
+          "Zhezhi",
+          "Shorekeeper"
+        ]
+      }
+    ],
+    "role": "Main DPS",
+    "roleType": "dps",
+    "images": {
+      "splash": "/images/characters/ciaccona-splash.webp",
+      "icon": "/images/characters/ciaccona-icon.webp"
+    }
+  },
+  {
+    "id": "iuno",
+    "name": "Iuno",
+    "title": "Electro Sage",
+    "rarity": 5,
+    "element": "electro",
+    "weaponType": "rectifier",
+    "stats": {
+      "level90": {
+        "hp": 12225,
+        "atk": 350,
+        "def": 1096
+      },
+      "level1": {
+        "hp": 883,
+        "atk": 24,
+        "def": 79
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Stellar Symphony",
+        "r": 5
+      },
+      {
+        "w": "Variation",
+        "r": 4
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Moonlit Clouds",
+        "a": "Moonlit Clouds"
+      },
+      {
+        "s": "5pc Empyrean Anthem",
+        "a": "Empyrean Anthem"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Energy Regen",
+        "echo3": "ATK%",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Energy Regen",
+        "ATK%",
+        "HP%",
+        "DEF%"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Xiangli Yao",
+          "Iuno",
+          "Verina"
+        ]
+      },
+      {
+        "members": [
+          "Calcharo",
+          "Iuno",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Support / Sub-DPS",
+    "roleType": "support",
+    "images": {
+      "splash": "/images/characters/iuno-splash.webp",
+      "icon": "/images/characters/iuno-icon.webp"
+    }
+  },
+  {
+    "id": "lynae",
+    "name": "Lynae",
+    "title": "Aero Alchemist",
+    "rarity": 5,
+    "element": "aero",
+    "weaponType": "sword",
+    "stats": {
+      "level90": {
+        "hp": 10650,
+        "atk": 437,
+        "def": 1034
+      },
+      "level1": {
+        "hp": 770,
+        "atk": 30,
+        "def": 76
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Emerald of Genesis",
+        "r": 5
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Sierra Gale",
+        "a": "Sierra Gale"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Aero DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Lynae",
+          "Mortefi",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Main DPS",
+    "roleType": "dps",
+    "images": {
+      "splash": "/images/characters/lynae-splash.webp",
+      "icon": "/images/characters/lynae-icon.webp"
+    }
+  },
+  {
+    "id": "mornye",
+    "name": "Mornye",
+    "title": "Fusion Tempest",
+    "rarity": 5,
+    "element": "fusion",
+    "weaponType": "gauntlets",
+    "stats": {
+      "level90": {
+        "hp": 11175,
+        "atk": 437,
+        "def": 1068
+      },
+      "level1": {
+        "hp": 808,
+        "atk": 30,
+        "def": 78
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Verity's Handle",
+        "r": 5
+      },
+      {
+        "w": "Abyss Surges",
+        "r": 5
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Molten Rift",
+        "a": "Molten Rift"
+      },
+      {
+        "s": "5pc Lingering Tunes",
+        "a": "Lingering Tunes"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Fusion DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Mornye",
+          "Changli",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Main DPS",
+    "roleType": "dps",
+    "images": {
+      "splash": "/images/characters/mornye-splash.webp",
+      "icon": "/images/characters/mornye-icon.webp"
+    }
+  },
+  {
+    "id": "phrolova",
+    "name": "Phrolova",
+    "title": "Aero Guardian",
+    "rarity": 5,
+    "element": "aero",
+    "weaponType": "broadblade",
+    "stats": {
+      "level90": {
+        "hp": 13350,
+        "atk": 375,
+        "def": 1149
+      },
+      "level1": {
+        "hp": 965,
+        "atk": 25,
+        "def": 83
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Lustrous Razor",
+        "r": 5
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Rejuvenating Glow",
+        "a": "Rejuvenating Glow"
+      },
+      {
+        "s": "5pc Tidebreaking Courage",
+        "a": "Tidebreaking Courage"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "HP%",
+        "echo3": "HP%",
+        "echo1": "HP%"
+      },
+      "sub": [
+        "HP%",
+        "Energy Regen",
+        "DEF%",
+        "ATK%"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Jiyan",
+          "Mortefi",
+          "Phrolova"
+        ]
+      },
+      {
+        "members": [
+          "Carlotta",
+          "Zhezhi",
+          "Phrolova"
+        ]
+      }
+    ],
+    "role": "Healer / Support",
+    "roleType": "support",
+    "images": {
+      "splash": "/images/characters/phrolova-splash.webp",
+      "icon": "/images/characters/phrolova-icon.webp"
+    }
+  },
+  {
+    "id": "qiuyuan",
+    "name": "Qiuyuan",
+    "title": "Ice Sage",
+    "rarity": 5,
+    "element": "glacio",
+    "weaponType": "rectifier",
+    "stats": {
+      "level90": {
+        "hp": 10650,
+        "atk": 437,
+        "def": 1034
+      },
+      "level1": {
+        "hp": 770,
+        "atk": 30,
+        "def": 76
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Stringmaster",
+        "r": 5
+      },
+      {
+        "w": "Cosmic Ripples",
+        "r": 5
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Freezing Frost",
+        "a": "Freezing Frost"
+      },
+      {
+        "s": "5pc Frosty Resolve",
+        "a": "Frosty Resolve"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Glacio DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Qiuyuan",
+          "Sanhua",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Main DPS",
+    "roleType": "dps",
+    "images": {
+      "splash": "/images/characters/qiuyuan-splash.webp",
+      "icon": "/images/characters/qiuyuan-icon.webp"
+    }
+  },
+  {
+    "id": "zani",
+    "name": "Zani",
+    "title": "Fusion Flame",
+    "rarity": 5,
+    "element": "fusion",
+    "weaponType": "pistols",
+    "stats": {
+      "level90": {
+        "hp": 10325,
+        "atk": 437,
+        "def": 1034
+      },
+      "level1": {
+        "hp": 746,
+        "atk": 30,
+        "def": 76
+      }
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Static Mist",
+        "r": 5
+      },
+      {
+        "w": "Undying Flame",
+        "r": 4
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5pc Molten Rift",
+        "a": "Molten Rift"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "Fusion DMG Bonus",
+        "echo1": "ATK%"
+      },
+      "sub": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    "teams": [
+      {
+        "members": [
+          "Zani",
+          "Changli",
+          "Verina"
+        ]
+      }
+    ],
+    "role": "Main DPS",
+    "roleType": "dps",
+    "images": {
+      "splash": "/images/characters/zani-splash.webp",
+      "icon": "/images/characters/zani-icon.webp"
+    }
+  }
+]

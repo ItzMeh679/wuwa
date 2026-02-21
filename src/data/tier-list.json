@@ -1,0 +1,115 @@
+{
+    "dps": {
+        "SS": [
+            "aemeath",
+            "augusta",
+            "cartethyia",
+            "galbrena",
+            "lynae",
+            "mornye",
+            "phrolova",
+            "shorekeeper"
+        ],
+        "S": [
+            "brant",
+            "camellya",
+            "cantarella",
+            "carlotta",
+            "changli",
+            "chisa",
+            "ciaccona",
+            "iuno",
+            "jinhsi",
+            "lupa",
+            "phoebe",
+            "qiuyuan",
+            "rover-aero",
+            "verina"
+        ],
+        "A": [
+            "buling",
+            "calcharo",
+            "encore",
+            "jiyan",
+            "mortefi",
+            "rover-havoc",
+            "sanhua",
+            "xiangli-yao",
+            "zani",
+            "zhezhi"
+        ],
+        "B": [
+            "baizhi",
+            "danjin",
+            "jianxin",
+            "rover-spectro",
+            "yinlin",
+            "roccia"
+        ],
+        "C": [
+            "aalto",
+            "lingyang",
+            "yangyang",
+            "yuanwu",
+            "chixia",
+            "taoqi",
+            "youhu",
+            "lumi"
+        ]
+    },
+    "sub-dps": {
+        "SS": [
+            "yinlin",
+            "changli",
+            "zhezhi",
+            "cantarella",
+            "sanhua"
+        ],
+        "S": [
+            "mortefi",
+            "roccia",
+            "iuno",
+            "buling"
+        ],
+        "A": [
+            "aalto",
+            "danjin",
+            "lumi",
+            "rover-spectro"
+        ],
+        "B": [
+            "yangyang",
+            "yuanwu",
+            "chixia"
+        ],
+        "C": [
+            "taoqi",
+            "lingyang"
+        ]
+    },
+    "support": {
+        "SS": [
+            "shorekeeper",
+            "verina",
+            "phrolova"
+        ],
+        "S": [
+            "jianxin",
+            "iuno",
+            "baizhi"
+        ],
+        "A": [
+            "taoqi",
+            "yuanwu",
+            "youhu",
+            "yangyang",
+            "roccia"
+        ],
+        "B": [
+            "aalto",
+            "mortefi"
+        ],
+        "C": []
+    },
+    "lastUpdated": "2026-02-21"
+}

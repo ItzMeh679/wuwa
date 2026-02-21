@@ -1,0 +1,1107 @@
+[
+    {
+        "id": "thundering-mephis",
+        "name": "Thundering Mephis",
+        "cost": 4,
+        "element": "electro",
+        "sonata": [
+            "void-thunder",
+            "sound-of-true-name"
+        ],
+        "skill": "Unleash a thundering strike dealing Electro DMG",
+        "class": "overlord"
+    },
+    {
+        "id": "tempest-mephis",
+        "name": "Tempest Mephis",
+        "cost": 4,
+        "element": "electro",
+        "sonata": [
+            "void-thunder",
+            "crown-of-valor"
+        ],
+        "skill": "Transform and unleash rapid Electro DMG attacks",
+        "class": "overlord"
+    },
+    {
+        "id": "inferno-rider",
+        "name": "Inferno Rider",
+        "cost": 4,
+        "element": "fusion",
+        "sonata": [
+            "molten-rift",
+            "flaming-clawprint"
+        ],
+        "skill": "Summon Inferno Rider dealing Fusion DMG in an area",
+        "class": "overlord"
+    },
+    {
+        "id": "feilian-beringal",
+        "name": "Feilian Beringal",
+        "cost": 4,
+        "element": "aero",
+        "sonata": [
+            "sierra-gale",
+            "windward-pilgrimage"
+        ],
+        "skill": "Transform into Feilian Beringal for a devastating Aero punch",
+        "class": "overlord"
+    },
+    {
+        "id": "moonlit-hunter",
+        "name": "Moonlit Hunter",
+        "cost": 4,
+        "element": "havoc",
+        "sonata": [
+            "havoc-eclipse",
+            "midnight-veil"
+        ],
+        "skill": "Deal Havoc DMG and absorb enemy HP",
+        "class": "overlord"
+    },
+    {
+        "id": "impermanence-heron",
+        "name": "Impermanence Heron",
+        "cost": 4,
+        "element": "spectro",
+        "sonata": [
+            "celestial-light",
+            "moonlit-clouds"
+        ],
+        "skill": "Deal Spectro DMG to all enemies in a wide area",
+        "class": "overlord"
+    },
+    {
+        "id": "bell-borne-geochelone",
+        "name": "Bell-Borne Geochelone",
+        "cost": 4,
+        "element": "glacio",
+        "sonata": [
+            "rejuvenating-glow",
+            "tidebreaking-courage"
+        ],
+        "skill": "Generate shield and deal Glacio DMG",
+        "class": "overlord"
+    },
+    {
+        "id": "crownless",
+        "name": "Crownless",
+        "cost": 4,
+        "element": "havoc",
+        "sonata": [
+            "midnight-veil",
+            "havoc-eclipse"
+        ],
+        "skill": "Unleash Havoc energy dealing massive Havoc DMG",
+        "class": "overlord"
+    },
+    {
+        "id": "jue",
+        "name": "Jué",
+        "cost": 4,
+        "element": "spectro",
+        "sonata": [
+            "eternal-radiance",
+            "celestial-light"
+        ],
+        "skill": "Deal massive Spectro DMG with celestial strikes",
+        "class": "overlord"
+    },
+    {
+        "id": "fallacy-of-no-return",
+        "name": "Fallacy of No Return",
+        "cost": 4,
+        "element": "havoc",
+        "sonata": [
+            "empyrean-anthem",
+            "midnight-veil"
+        ],
+        "skill": "Deal Havoc DMG and boost coordinated attacks",
+        "class": "overlord"
+    },
+    {
+        "id": "lampylumen-myriad",
+        "name": "Lampylumen Myriad",
+        "cost": 4,
+        "element": "glacio",
+        "sonata": [
+            "freezing-frost",
+            "frosty-resolve"
+        ],
+        "skill": "Unleash Glacio barrage dealing massive ice damage",
+        "class": "overlord"
+    },
+    {
+        "id": "glacier-predator",
+        "name": "Glacier Predator",
+        "cost": 4,
+        "element": "glacio",
+        "sonata": [
+            "frosty-resolve",
+            "freezing-frost"
+        ],
+        "skill": "Deal Glacio DMG with freezing strikes",
+        "class": "overlord"
+    },
+    {
+        "id": "mech-abomination",
+        "name": "Mech Abomination",
+        "cost": 4,
+        "element": "electro",
+        "sonata": [
+            "lingering-tunes",
+            "void-thunder"
+        ],
+        "skill": "Transform into Mech Abomination for massive Electro DMG",
+        "class": "overlord"
+    },
+    {
+        "id": "mourning-aix",
+        "name": "Mourning Aix",
+        "cost": 4,
+        "element": "spectro",
+        "sonata": [
+            "celestial-light",
+            "eternal-radiance"
+        ],
+        "skill": "Summon Mourning Aix dealing Spectro DMG",
+        "class": "overlord"
+    },
+    {
+        "id": "nightmare-thundering-mephis",
+        "name": "Nightmare: Thundering Mephis",
+        "cost": 4,
+        "element": "electro",
+        "sonata": [
+            "sound-of-true-name",
+            "crown-of-valor"
+        ],
+        "skill": "Enhanced thundering assault dealing massive Electro DMG",
+        "class": "nightmare"
+    },
+    {
+        "id": "nightmare-inferno-rider",
+        "name": "Nightmare: Inferno Rider",
+        "cost": 4,
+        "element": "fusion",
+        "sonata": [
+            "flamewings-shadow",
+            "trailblazing-star"
+        ],
+        "skill": "Enhanced flaming charge dealing devastating Fusion DMG",
+        "class": "nightmare"
+    },
+    {
+        "id": "nightmare-feilian-beringal",
+        "name": "Nightmare: Feilian Beringal",
+        "cost": 4,
+        "element": "aero",
+        "sonata": [
+            "gusts-of-welkin",
+            "windward-pilgrimage"
+        ],
+        "skill": "Enhanced Aero punch with expanded range",
+        "class": "nightmare"
+    },
+    {
+        "id": "nightmare-crownless",
+        "name": "Nightmare: Crownless",
+        "cost": 4,
+        "element": "havoc",
+        "sonata": [
+            "dream-of-the-lost",
+            "midnight-veil"
+        ],
+        "skill": "Enhanced Havoc energy blast dealing massive DMG",
+        "class": "nightmare"
+    },
+    {
+        "id": "nightmare-impermanence-heron",
+        "name": "Nightmare: Impermanence Heron",
+        "cost": 4,
+        "element": "spectro",
+        "sonata": [
+            "law-of-harmony",
+            "halo-of-starry-radiance"
+        ],
+        "skill": "Enhanced Spectro wave dealing massive DMG",
+        "class": "nightmare"
+    },
+    {
+        "id": "nightmare-lampylumen-myriad",
+        "name": "Nightmare: Lampylumen Myriad",
+        "cost": 4,
+        "element": "glacio",
+        "sonata": [
+            "pact-of-neonlight-leap",
+            "frosty-resolve"
+        ],
+        "skill": "Enhanced Glacio barrage with extended reach",
+        "class": "nightmare"
+    },
+    {
+        "id": "nightmare-bell-borne-geochelone",
+        "name": "Nightmare: Bell-Borne Geochelone",
+        "cost": 4,
+        "element": "glacio",
+        "sonata": [
+            "halo-of-starry-radiance",
+            "rejuvenating-glow"
+        ],
+        "skill": "Enhanced shield generation and Glacio DMG",
+        "class": "nightmare"
+    },
+    {
+        "id": "nightmare-jue",
+        "name": "Nightmare: Jué",
+        "cost": 4,
+        "element": "spectro",
+        "sonata": [
+            "rite-of-gilded-revelation",
+            "eternal-radiance"
+        ],
+        "skill": "Enhanced celestial strikes with massive Spectro DMG",
+        "class": "nightmare"
+    },
+    {
+        "id": "nightmare-fallacy-of-no-return",
+        "name": "Nightmare: Fallacy of No Return",
+        "cost": 4,
+        "element": "havoc",
+        "sonata": [
+            "chromatic-foam",
+            "empyrean-anthem"
+        ],
+        "skill": "Enhanced Havoc wave with coordinated boost",
+        "class": "nightmare"
+    },
+    {
+        "id": "nightmare-mech-abomination",
+        "name": "Nightmare: Mech Abomination",
+        "cost": 4,
+        "element": "electro",
+        "sonata": [
+            "rite-of-gilded-revelation",
+            "lingering-tunes"
+        ],
+        "skill": "Enhanced Mech transformation with devastating attacks",
+        "class": "nightmare"
+    },
+    {
+        "id": "twin-nova-collapsar-blade",
+        "name": "Twin Nova: Collapsar Blade",
+        "cost": 4,
+        "element": "fusion",
+        "sonata": [
+            "trailblazing-star",
+            "chromatic-foam"
+        ],
+        "skill": "Unleash twin nova blade strikes dealing massive Fusion DMG",
+        "class": "nightmare"
+    },
+    {
+        "id": "the-false-sovereign",
+        "name": "The False Sovereign",
+        "cost": 4,
+        "element": "electro",
+        "sonata": [
+            "crown-of-valor",
+            "sound-of-true-name"
+        ],
+        "skill": "Summon sovereign power dealing devastating Electro DMG",
+        "class": "nightmare"
+    },
+    {
+        "id": "lady-of-the-sea",
+        "name": "Lady of the Sea",
+        "cost": 4,
+        "element": "glacio",
+        "sonata": [
+            "pact-of-neonlight-leap",
+            "thread-of-severed-fate"
+        ],
+        "skill": "Summon ocean powers dealing massive Glacio DMG",
+        "class": "nightmare"
+    },
+    {
+        "id": "dreamless",
+        "name": "Dreamless",
+        "cost": 3,
+        "element": "havoc",
+        "sonata": [
+            "havoc-eclipse",
+            "midnight-veil"
+        ],
+        "skill": "Deal Havoc DMG to nearby enemies",
+        "class": "elite"
+    },
+    {
+        "id": "autopuppet-scout",
+        "name": "Autopuppet Scout",
+        "cost": 3,
+        "element": "electro",
+        "sonata": [
+            "void-thunder",
+            "moonlit-clouds"
+        ],
+        "skill": "Fire electro projectiles dealing Electro DMG",
+        "class": "elite"
+    },
+    {
+        "id": "tambourinist",
+        "name": "Tambourinist",
+        "cost": 3,
+        "element": "spectro",
+        "sonata": [
+            "moonlit-clouds",
+            "empyrean-anthem"
+        ],
+        "skill": "Buff party ATK with Spectro energy",
+        "class": "elite"
+    },
+    {
+        "id": "spearback",
+        "name": "Spearback",
+        "cost": 3,
+        "element": "electro",
+        "sonata": [
+            "void-thunder",
+            "lingering-tunes"
+        ],
+        "skill": "Fire electro spines in a line dealing Electro DMG",
+        "class": "elite"
+    },
+    {
+        "id": "whiff-waker",
+        "name": "Whiff Waker",
+        "cost": 3,
+        "element": "aero",
+        "sonata": [
+            "sierra-gale",
+            "moonlit-clouds"
+        ],
+        "skill": "Deal Aero DMG with whirlwind attacks",
+        "class": "elite"
+    },
+    {
+        "id": "violet-feathered-heron",
+        "name": "Violet-Feathered Heron",
+        "cost": 3,
+        "element": "electro",
+        "sonata": [
+            "moonlit-clouds",
+            "void-thunder"
+        ],
+        "skill": "Deal Electro DMG to enemies in front",
+        "class": "elite"
+    },
+    {
+        "id": "cyan-feathered-heron",
+        "name": "Cyan-Feathered Heron",
+        "cost": 3,
+        "element": "glacio",
+        "sonata": [
+            "freezing-frost",
+            "rejuvenating-glow"
+        ],
+        "skill": "Deal Glacio DMG with feathered strike",
+        "class": "elite"
+    },
+    {
+        "id": "havoc-dreadmane",
+        "name": "Havoc Dreadmane",
+        "cost": 3,
+        "element": "havoc",
+        "sonata": [
+            "midnight-veil",
+            "havoc-eclipse"
+        ],
+        "skill": "Deal Havoc DMG and reduce enemy DEF",
+        "class": "elite"
+    },
+    {
+        "id": "glacio-dreadmane",
+        "name": "Glacio Dreadmane",
+        "cost": 3,
+        "element": "glacio",
+        "sonata": [
+            "freezing-frost",
+            "frosty-resolve"
+        ],
+        "skill": "Deal Glacio DMG with freezing charge",
+        "class": "elite"
+    },
+    {
+        "id": "fusion-dreadmane",
+        "name": "Fusion Dreadmane",
+        "cost": 3,
+        "element": "fusion",
+        "sonata": [
+            "molten-rift",
+            "lingering-tunes"
+        ],
+        "skill": "Deal Fusion DMG with flaming charge",
+        "class": "elite"
+    },
+    {
+        "id": "electro-predator",
+        "name": "Electro Predator",
+        "cost": 3,
+        "element": "electro",
+        "sonata": [
+            "void-thunder",
+            "lingering-tunes"
+        ],
+        "skill": "Deal Electro DMG with predatory strikes",
+        "class": "elite"
+    },
+    {
+        "id": "glacio-predator-3",
+        "name": "Glacio Predator",
+        "cost": 3,
+        "element": "glacio",
+        "sonata": [
+            "freezing-frost",
+            "rejuvenating-glow"
+        ],
+        "skill": "Deal Glacio DMG with predatory strikes",
+        "class": "elite"
+    },
+    {
+        "id": "flautist",
+        "name": "Flautist",
+        "cost": 3,
+        "element": "aero",
+        "sonata": [
+            "moonlit-clouds",
+            "sierra-gale"
+        ],
+        "skill": "Play haunting melody dealing Aero DMG to enemies",
+        "class": "elite"
+    },
+    {
+        "id": "stonewall-bracer",
+        "name": "Stonewall Bracer",
+        "cost": 3,
+        "element": "havoc",
+        "sonata": [
+            "midnight-veil",
+            "rejuvenating-glow"
+        ],
+        "skill": "Fortify defenses and deal Havoc DMG",
+        "class": "elite"
+    },
+    {
+        "id": "viridblaze-saurian",
+        "name": "Viridblaze Saurian",
+        "cost": 3,
+        "element": "fusion",
+        "sonata": [
+            "molten-rift",
+            "lingering-tunes"
+        ],
+        "skill": "Breathe fire dealing Fusion DMG to enemies",
+        "class": "elite"
+    },
+    {
+        "id": "roseshroom",
+        "name": "Roseshroom",
+        "cost": 3,
+        "element": "havoc",
+        "sonata": [
+            "havoc-eclipse",
+            "empyrean-anthem"
+        ],
+        "skill": "Release spores dealing Havoc DMG to enemies",
+        "class": "elite"
+    },
+    {
+        "id": "chasm-guardian",
+        "name": "Chasm Guardian",
+        "cost": 3,
+        "element": "spectro",
+        "sonata": [
+            "celestial-light",
+            "empyrean-anthem"
+        ],
+        "skill": "Guard with crystallized energy dealing Spectro DMG",
+        "class": "elite"
+    },
+    {
+        "id": "rocksteady-guardian",
+        "name": "Rocksteady Guardian",
+        "cost": 3,
+        "element": "havoc",
+        "sonata": [
+            "tidebreaking-courage",
+            "rejuvenating-glow"
+        ],
+        "skill": "Sturdy defense dealing Havoc DMG",
+        "class": "elite"
+    },
+    {
+        "id": "lightcrusher",
+        "name": "Lightcrusher",
+        "cost": 3,
+        "element": "spectro",
+        "sonata": [
+            "eternal-radiance",
+            "celestial-light"
+        ],
+        "skill": "Crush with light energy dealing Spectro DMG",
+        "class": "elite"
+    },
+    {
+        "id": "lumiscale-construct",
+        "name": "Lumiscale Construct",
+        "cost": 3,
+        "element": "spectro",
+        "sonata": [
+            "celestial-light",
+            "moonlit-clouds"
+        ],
+        "skill": "Construct dealing Spectro DMG with scaled defense",
+        "class": "elite"
+    },
+    {
+        "id": "carapace",
+        "name": "Carapace",
+        "cost": 3,
+        "element": "glacio",
+        "sonata": [
+            "rejuvenating-glow",
+            "freezing-frost"
+        ],
+        "skill": "Slam with reinforced shell dealing Glacio DMG",
+        "class": "elite"
+    },
+    {
+        "id": "hoochief",
+        "name": "Hoochief",
+        "cost": 3,
+        "element": "aero",
+        "sonata": [
+            "sierra-gale",
+            "tidebreaking-courage"
+        ],
+        "skill": "Deal Aero DMG with a powerful gust",
+        "class": "elite"
+    },
+    {
+        "id": "nightmare-violet-feathered-heron",
+        "name": "Nightmare: Violet-Feathered Heron",
+        "cost": 3,
+        "element": "electro",
+        "sonata": [
+            "crown-of-valor",
+            "sound-of-true-name"
+        ],
+        "skill": "Enhanced Electro feathered strike",
+        "class": "nightmare"
+    },
+    {
+        "id": "nightmare-electro-predator",
+        "name": "Nightmare: Electro Predator",
+        "cost": 3,
+        "element": "electro",
+        "sonata": [
+            "crown-of-valor",
+            "sound-of-true-name"
+        ],
+        "skill": "Enhanced Electro predatory strike",
+        "class": "nightmare"
+    },
+    {
+        "id": "nightmare-aero-predator",
+        "name": "Nightmare: Aero Predator",
+        "cost": 3,
+        "element": "aero",
+        "sonata": [
+            "gusts-of-welkin",
+            "windward-pilgrimage"
+        ],
+        "skill": "Enhanced Aero predatory strike",
+        "class": "nightmare"
+    },
+    {
+        "id": "hurriclaw",
+        "name": "Hurriclaw",
+        "cost": 3,
+        "element": "aero",
+        "sonata": [
+            "gusts-of-welkin",
+            "crown-of-valor"
+        ],
+        "skill": "Unleash hurricane claws dealing Aero DMG",
+        "class": "elite"
+    },
+    {
+        "id": "calcified-junrock",
+        "name": "Calcified Junrock",
+        "cost": 3,
+        "element": "spectro",
+        "sonata": [
+            "crown-of-valor",
+            "law-of-harmony"
+        ],
+        "skill": "Harden and slam dealing Spectro DMG",
+        "class": "elite"
+    },
+    {
+        "id": "chirpuff",
+        "name": "Chirpuff",
+        "cost": 1,
+        "element": "aero",
+        "sonata": [
+            "sierra-gale",
+            "moonlit-clouds"
+        ],
+        "skill": "Deal minor Aero DMG",
+        "class": "common"
+    },
+    {
+        "id": "diamondclaw",
+        "name": "Diamondclaw",
+        "cost": 1,
+        "element": "electro",
+        "sonata": [
+            "void-thunder",
+            "lingering-tunes"
+        ],
+        "skill": "Deal Electro DMG with claw strike",
+        "class": "common"
+    },
+    {
+        "id": "cruisewing",
+        "name": "Cruisewing",
+        "cost": 1,
+        "element": "aero",
+        "sonata": [
+            "moonlit-clouds",
+            "sierra-gale"
+        ],
+        "skill": "Heal party members with restorative energy",
+        "class": "common"
+    },
+    {
+        "id": "fusion-warrior",
+        "name": "Fusion Warrior",
+        "cost": 1,
+        "element": "fusion",
+        "sonata": [
+            "molten-rift",
+            "lingering-tunes"
+        ],
+        "skill": "Deal Fusion DMG with warrior strike",
+        "class": "common"
+    },
+    {
+        "id": "snip-snap",
+        "name": "Snip Snap",
+        "cost": 1,
+        "element": "electro",
+        "sonata": [
+            "void-thunder",
+            "moonlit-clouds"
+        ],
+        "skill": "Deal Electro DMG with snapping attack",
+        "class": "common"
+    },
+    {
+        "id": "glacio-prism",
+        "name": "Glacio Prism",
+        "cost": 1,
+        "element": "glacio",
+        "sonata": [
+            "rejuvenating-glow",
+            "freezing-frost"
+        ],
+        "skill": "Deal Glacio DMG with prism beam",
+        "class": "common"
+    },
+    {
+        "id": "havoc-warrior",
+        "name": "Havoc Warrior",
+        "cost": 1,
+        "element": "havoc",
+        "sonata": [
+            "havoc-eclipse",
+            "midnight-veil"
+        ],
+        "skill": "Deal Havoc DMG with dark strike",
+        "class": "common"
+    },
+    {
+        "id": "spectro-prism",
+        "name": "Spectro Prism",
+        "cost": 1,
+        "element": "spectro",
+        "sonata": [
+            "celestial-light",
+            "empyrean-anthem"
+        ],
+        "skill": "Deal Spectro DMG with light beam",
+        "class": "common"
+    },
+    {
+        "id": "electro-prism",
+        "name": "Electro Prism",
+        "cost": 1,
+        "element": "electro",
+        "sonata": [
+            "void-thunder",
+            "lingering-tunes"
+        ],
+        "skill": "Deal Electro DMG with electric beam",
+        "class": "common"
+    },
+    {
+        "id": "fusion-prism",
+        "name": "Fusion Prism",
+        "cost": 1,
+        "element": "fusion",
+        "sonata": [
+            "molten-rift",
+            "empyrean-anthem"
+        ],
+        "skill": "Deal Fusion DMG with fiery beam",
+        "class": "common"
+    },
+    {
+        "id": "aero-prism",
+        "name": "Aero Prism",
+        "cost": 1,
+        "element": "aero",
+        "sonata": [
+            "sierra-gale",
+            "tidebreaking-courage"
+        ],
+        "skill": "Deal Aero DMG with wind beam",
+        "class": "common"
+    },
+    {
+        "id": "havoc-prism",
+        "name": "Havoc Prism",
+        "cost": 1,
+        "element": "havoc",
+        "sonata": [
+            "midnight-veil",
+            "havoc-eclipse"
+        ],
+        "skill": "Deal Havoc DMG with dark beam",
+        "class": "common"
+    },
+    {
+        "id": "zig-zag",
+        "name": "Zig Zag",
+        "cost": 1,
+        "element": "electro",
+        "sonata": [
+            "void-thunder",
+            "trailblazing-star",
+            "chromatic-foam"
+        ],
+        "skill": "Deal Electro DMG with zigzag strikes",
+        "class": "common"
+    },
+    {
+        "id": "whiff-whaff",
+        "name": "Whiff Whaff",
+        "cost": 1,
+        "element": "aero",
+        "sonata": [
+            "sierra-gale",
+            "moonlit-clouds"
+        ],
+        "skill": "Deal Aero DMG with quick gusts",
+        "class": "common"
+    },
+    {
+        "id": "tick-tack",
+        "name": "Tick Tack",
+        "cost": 1,
+        "element": "spectro",
+        "sonata": [
+            "celestial-light",
+            "eternal-radiance"
+        ],
+        "skill": "Deal Spectro DMG with rhythmic strikes",
+        "class": "common"
+    },
+    {
+        "id": "gulpuff",
+        "name": "Gulpuff",
+        "cost": 1,
+        "element": "aero",
+        "sonata": [
+            "rejuvenating-glow",
+            "sierra-gale"
+        ],
+        "skill": "Release healing bubbles to restore HP",
+        "class": "common"
+    },
+    {
+        "id": "excarat",
+        "name": "Excarat",
+        "cost": 1,
+        "element": "electro",
+        "sonata": [
+            "void-thunder",
+            "moonlit-clouds"
+        ],
+        "skill": "Dig and strike dealing Electro DMG",
+        "class": "common"
+    },
+    {
+        "id": "baby-viridblaze-saurian",
+        "name": "Baby Viridblaze Saurian",
+        "cost": 1,
+        "element": "fusion",
+        "sonata": [
+            "molten-rift",
+            "lingering-tunes"
+        ],
+        "skill": "Breathe small fire dealing Fusion DMG",
+        "class": "common"
+    },
+    {
+        "id": "sabyr-boar",
+        "name": "Sabyr Boar",
+        "cost": 1,
+        "element": "glacio",
+        "sonata": [
+            "freezing-frost",
+            "frosty-resolve"
+        ],
+        "skill": "Charge dealing Glacio DMG",
+        "class": "common"
+    },
+    {
+        "id": "hooscamp",
+        "name": "Hooscamp",
+        "cost": 1,
+        "element": "aero",
+        "sonata": [
+            "sierra-gale",
+            "tidebreaking-courage"
+        ],
+        "skill": "Deal Aero DMG with mischievous strikes",
+        "class": "common"
+    },
+    {
+        "id": "vanguard-junrock",
+        "name": "Vanguard Junrock",
+        "cost": 1,
+        "element": "spectro",
+        "sonata": [
+            "celestial-light",
+            "rejuvenating-glow"
+        ],
+        "skill": "Defend and strike with Spectro energy",
+        "class": "common"
+    },
+    {
+        "id": "fission-junrock",
+        "name": "Fission Junrock",
+        "cost": 1,
+        "element": "electro",
+        "sonata": [
+            "void-thunder",
+            "empyrean-anthem"
+        ],
+        "skill": "Split and explode dealing Electro DMG",
+        "class": "common"
+    },
+    {
+        "id": "fusion-turtle",
+        "name": "Fusion Turtle",
+        "cost": 1,
+        "element": "fusion",
+        "sonata": [
+            "molten-rift",
+            "rejuvenating-glow"
+        ],
+        "skill": "Deal Fusion DMG with fiery shell slam",
+        "class": "common"
+    },
+    {
+        "id": "glacio-turtle",
+        "name": "Glacio Turtle",
+        "cost": 1,
+        "element": "glacio",
+        "sonata": [
+            "freezing-frost",
+            "rejuvenating-glow"
+        ],
+        "skill": "Deal Glacio DMG with icy shell slam",
+        "class": "common"
+    },
+    {
+        "id": "electro-turtle",
+        "name": "Electro Turtle",
+        "cost": 1,
+        "element": "electro",
+        "sonata": [
+            "void-thunder",
+            "rejuvenating-glow"
+        ],
+        "skill": "Deal Electro DMG with charged shell slam",
+        "class": "common"
+    },
+    {
+        "id": "aero-turtle",
+        "name": "Aero Turtle",
+        "cost": 1,
+        "element": "aero",
+        "sonata": [
+            "sierra-gale",
+            "rejuvenating-glow"
+        ],
+        "skill": "Deal Aero DMG with breezy shell slam",
+        "class": "common"
+    },
+    {
+        "id": "havoc-turtle",
+        "name": "Havoc Turtle",
+        "cost": 1,
+        "element": "havoc",
+        "sonata": [
+            "havoc-eclipse",
+            "rejuvenating-glow"
+        ],
+        "skill": "Deal Havoc DMG with dark shell slam",
+        "class": "common"
+    },
+    {
+        "id": "spectro-turtle",
+        "name": "Spectro Turtle",
+        "cost": 1,
+        "element": "spectro",
+        "sonata": [
+            "celestial-light",
+            "rejuvenating-glow"
+        ],
+        "skill": "Deal Spectro DMG with radiant shell slam",
+        "class": "common"
+    },
+    {
+        "id": "dwarf-cassowary",
+        "name": "Dwarf Cassowary",
+        "cost": 1,
+        "element": "aero",
+        "sonata": [
+            "sierra-gale",
+            "moonlit-clouds"
+        ],
+        "skill": "Kick dealing Aero DMG",
+        "class": "common"
+    },
+    {
+        "id": "young-roseshroom",
+        "name": "Young Roseshroom",
+        "cost": 1,
+        "element": "havoc",
+        "sonata": [
+            "havoc-eclipse",
+            "empyrean-anthem"
+        ],
+        "skill": "Release minor spores dealing Havoc DMG",
+        "class": "common"
+    },
+    {
+        "id": "traffic-illuminator",
+        "name": "Traffic Illuminator",
+        "cost": 1,
+        "element": "spectro",
+        "sonata": [
+            "celestial-light",
+            "eternal-radiance"
+        ],
+        "skill": "Flash dealing Spectro DMG",
+        "class": "common"
+    },
+    {
+        "id": "clang-bang",
+        "name": "Clang Bang",
+        "cost": 1,
+        "element": "havoc",
+        "sonata": [
+            "midnight-veil",
+            "dream-of-the-lost"
+        ],
+        "skill": "Deal Havoc DMG with crashing impact",
+        "class": "common"
+    },
+    {
+        "id": "lava-larva",
+        "name": "Lava Larva",
+        "cost": 1,
+        "element": "fusion",
+        "sonata": [
+            "molten-rift",
+            "flaming-clawprint"
+        ],
+        "skill": "Erupt dealing Fusion DMG",
+        "class": "common"
+    },
+    {
+        "id": "frost-larva",
+        "name": "Frost Larva",
+        "cost": 1,
+        "element": "glacio",
+        "sonata": [
+            "freezing-frost",
+            "pact-of-neonlight-leap"
+        ],
+        "skill": "Freeze and burst dealing Glacio DMG",
+        "class": "common"
+    },
+    {
+        "id": "electro-larva",
+        "name": "Electro Larva",
+        "cost": 1,
+        "element": "electro",
+        "sonata": [
+            "void-thunder",
+            "sound-of-true-name"
+        ],
+        "skill": "Shock and burst dealing Electro DMG",
+        "class": "common"
+    },
+    {
+        "id": "aero-larva",
+        "name": "Aero Larva",
+        "cost": 1,
+        "element": "aero",
+        "sonata": [
+            "sierra-gale",
+            "gusts-of-welkin"
+        ],
+        "skill": "Gust and burst dealing Aero DMG",
+        "class": "common"
+    },
+    {
+        "id": "spectro-larva",
+        "name": "Spectro Larva",
+        "cost": 1,
+        "element": "spectro",
+        "sonata": [
+            "celestial-light",
+            "law-of-harmony"
+        ],
+        "skill": "Flash and burst dealing Spectro DMG",
+        "class": "common"
+    },
+    {
+        "id": "havoc-larva",
+        "name": "Havoc Larva",
+        "cost": 1,
+        "element": "havoc",
+        "sonata": [
+            "midnight-veil",
+            "dream-of-the-lost"
+        ],
+        "skill": "Corrupt and burst dealing Havoc DMG",
+        "class": "common"
+    }
+]

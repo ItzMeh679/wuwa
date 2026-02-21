@@ -1,0 +1,50 @@
+[
+    {
+        "id": "fusion",
+        "name": "Fusion",
+        "color": "#ff6b4a",
+        "bgColor": "rgba(255,107,74,0.15)",
+        "icon": "🔥",
+        "description": "Fusion element deals fire-based damage"
+    },
+    {
+        "id": "glacio",
+        "name": "Glacio",
+        "color": "#4fc3f7",
+        "bgColor": "rgba(79,195,247,0.15)",
+        "icon": "❄️",
+        "description": "Glacio element deals ice-based damage"
+    },
+    {
+        "id": "aero",
+        "name": "Aero",
+        "color": "#81c784",
+        "bgColor": "rgba(129,199,132,0.15)",
+        "icon": "🌪️",
+        "description": "Aero element deals wind-based damage"
+    },
+    {
+        "id": "electro",
+        "name": "Electro",
+        "color": "#ce93d8",
+        "bgColor": "rgba(206,147,216,0.15)",
+        "icon": "⚡",
+        "description": "Electro element deals lightning-based damage"
+    },
+    {
+        "id": "spectro",
+        "name": "Spectro",
+        "color": "#fff176",
+        "bgColor": "rgba(255,241,118,0.15)",
+        "icon": "✨",
+        "description": "Spectro element deals light-based damage"
+    },
+    {
+        "id": "havoc",
+        "name": "Havoc",
+        "color": "#ef5350",
+        "bgColor": "rgba(239,83,80,0.15)",
+        "icon": "💀",
+        "description": "Havoc element deals dark-based damage"
+    }
+]

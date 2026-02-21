@@ -1,0 +1,129 @@
+.character-card {
+    display: flex;
+    flex-direction: column;
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    transition: all var(--transition-normal);
+    cursor: pointer;
+}
+
+.character-card:hover {
+    transform: translateY(-6px);
+    border-color: var(--element-color, rgba(255, 255, 255, 0.1));
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.4), 0 0 20px color-mix(in srgb, var(--element-color, #7c3aed) 20%, transparent);
+}
+
+.character-card.r5 {
+    border-bottom: 2px solid var(--rarity-5);
+}
+
+.character-card.r4 {
+    border-bottom: 2px solid var(--rarity-4);
+}
+
+.card-image-wrap {
+    position: relative;
+    aspect-ratio: 1;
+    overflow: hidden;
+}
+
+.character-card.r5 .card-image-wrap {
+    background: var(--rarity-5-bg);
+}
+
+.character-card.r4 .card-image-wrap {
+    background: var(--rarity-4-bg);
+}
+
+.card-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center top;
+    transition: transform 0.4s ease;
+}
+
+.character-card:hover .card-image {
+    transform: scale(1.08);
+}
+
+.card-image-fallback {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    font-size: 3rem;
+    opacity: 0.6;
+}
+
+.card-image-placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    font-size: 3rem;
+    opacity: 0.6;
+}
+
+.card-rarity {
+    position: absolute;
+    bottom: 4px;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    gap: 1px;
+}
+
+.card-rarity .star {
+    font-size: 0.7rem;
+}
+
+.character-card.r5 .card-rarity .star {
+    color: var(--rarity-5);
+}
+
+.character-card.r4 .card-rarity .star {
+    color: var(--rarity-4);
+}
+
+.card-info {
+    padding: var(--space-3) var(--space-4) var(--space-4);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2);
+}
+
+.card-name {
+    font-size: var(--font-size-sm);
+    font-weight: 700;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.card-meta {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+}
+
+.weapon-type {
+    font-size: var(--font-size-xs);
+    color: var(--text-muted);
+    text-transform: capitalize;
+}
+
+.card-role {
+    font-size: var(--font-size-xs);
+    color: var(--text-secondary);
+}
+
+.card-element-icon {
+    font-size: 3.5rem;
+    filter: drop-shadow(0 0 20px var(--element-color));
+}
