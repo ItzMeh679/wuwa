@@ -1,160 +1,225 @@
 [
   {
-    "id": "cartethiya",
-    "name": "Cartethiya",
-    "title": "Aero Resonator",
+    "id": "cartethyia",
+    "name": "Cartethyia",
+    "title": "Wandering Knight · Blessed Maiden",
     "rarity": 5,
     "element": "aero",
-    "weaponType": "pistols",
-    "role": "Sub DPS",
+    "weaponType": "sword",
+    "role": "Main DPS",
     "stats": {
       "level90": {
-        "hp": 35000,
-        "atk": 0,
-        "def": 0
+        "hp": 14800,
+        "atk": 312,
+        "def": 611
       }
     },
     "detailedStats": {
-      "hp": "35,000+",
-      "energyRegen": "100-110%",
-      "critWeapon": "75% : 310%",
+      "hp": "48,000 - 50,000+",
+      "energyRegen": "115% - 120%",
+      "critWeapon": "70% : 270%",
       "critNonWeapon": "70% : 270%"
     },
     "endgameRating": {
-      "tower": "Top Tier",
-      "wastes": "Top Tier"
+      "tower": "SS",
+      "wastes": "S"
     },
     "materials": {
       "ascension": [
         {
-          "name": "Roaring Rock Fist",
+          "name": "Unfading Glory",
           "count": 46,
-          "img": "item_roaring_rock_fist"
+          "img": "item_unfading_glory"
         },
         {
-          "name": "Iris",
+          "name": "Bamboo Iris",
           "count": 60,
-          "img": "item_iris"
+          "img": "item_bamboo_iris"
         },
         {
-          "name": "Mystic Enhancement",
-          "count": 26,
-          "img": "item_mystic"
+          "name": "Tidal Residuum",
+          "count": "4 / 12 / 12 / 4",
+          "img": "item_tidal_residuum"
         }
       ],
       "forte": [
         {
-          "name": "Cadence Seed",
-          "count": "29 / 40 / 52 / 61",
-          "img": "item_cadence_seed"
+          "name": "Metallic Drip",
+          "count": "25 / 28 / 55 / 67",
+          "img": "item_metallic_drip"
         },
         {
-          "name": "Monument Bell",
-          "count": "25 / 28 / 55 / 67",
-          "img": "item_monument_bell"
+          "name": "When Irises Bloom",
+          "count": 26,
+          "img": "item_when_irises_bloom"
         }
       ]
     },
     "recommendedWeapons": [
       {
         "w": "Defier's Thorn",
-        "r": 5
+        "r": 5,
+        "desc": "Signature weapon. Increases Max HP by 12%, ignores 8% DEF, and amplifies DMG by 20% on targets with Aero Erosion."
       },
       {
         "w": "Red Spring",
-        "r": 5
+        "r": 5,
+        "desc": "Increases ATK and Basic Attack DMG Bonus, great alternative for Basic Attack-heavy playstyle."
       },
       {
         "w": "Blazing Brilliance",
-        "r": 5
+        "r": 5,
+        "desc": "Provides ATK and stacking Resonance Skill DMG Bonus through Searing Feather."
+      },
+      {
+        "w": "Unflickering Valor",
+        "r": 5,
+        "desc": "Increases Crit Rate and provides Basic Attack DMG Bonus after Liberation and Basic Attacks."
       },
       {
         "w": "Emerald of Genesis",
-        "r": 5
-      },
-      {
-        "w": "Feather Edge",
-        "r": 5
+        "r": 5,
+        "desc": "Increases Energy Regen and provides ATK stacks on Resonance Skill cast."
       },
       {
         "w": "Guardian Sword",
-        "r": 4
+        "r": 4,
+        "desc": "F2P option. Only sword with HP% main stat, directly benefiting Cartethyia's HP-scaling kit."
       }
     ],
     "recommendedEchoSets": [
       {
-        "s": "5-pc. Windward Pilgrimage",
-        "a": "Reminiscence: Fleurdelys"
+        "s": "Windward Pilgrimage",
+        "a": "Windward Pilgrimage",
+        "p": "5-pc",
+        "rating": "Best",
+        "desc": "Provides virtually guaranteed Crit Rate and Aero DMG Bonus. Best-in-slot for Erosion DPS."
+      },
+      {
+        "s": "Gusts of Welkin",
+        "a": "Gusts of Welkin",
+        "p": "5-pc",
+        "rating": "2nd Best",
+        "desc": "Provides same Aero DMG Bonus without the Crit Rate boost. Good temporary option."
+      },
+      {
+        "s": "Sierra Gale",
+        "a": "Sierra Gale",
+        "p": "5-pc",
+        "rating": "3rd Best",
+        "desc": "Unconditional Aero DMG Bonus via Intro Skill. Use if you haven't reached Rinascita."
       }
     ],
+    "mainEcho": "Reminiscence: Fleurdelys",
+    "echoCostLayout": "4-4-1-1-1",
     "statPriority": {
       "main": {
-        "echo4": "Crit. Rate | Crit. DMG",
-        "echo3": "Aero DMG Bonus",
+        "echo4": "Crit Rate / Crit DMG",
+        "echo3": "-",
         "echo1": "HP%"
       },
       "sub": [
-        "Crit. Rate / Crit. DMG",
-        "HP%",
-        "Basic%",
-        "Flat HP",
-        "Liberation%",
-        "Energy Regen (110%)"
+        "Crit Rate ★★★★",
+        "Crit DMG ★★★★",
+        "Basic Attack DMG Bonus ★★",
+        "HP% ★★",
+        "Energy Regen ★"
       ]
     },
     "fortePriority": [
       "Forte Circuit",
-      "Res. Liberation",
       "Normal ATK",
-      "Intro Skill",
-      "Res. Skill"
+      "Res. Liberation",
+      "Res. Skill",
+      "Intro Skill"
+    ],
+    "strengths": [
+      "Premier Aero Erosion DPS — attacks scale off Aero Erosion for massive damage.",
+      "Self-sufficient Erosion — applies Aero Erosion herself, reducing reliance on enablers like Ciaccona.",
+      "High skill ceiling — mastering Cartethyia and Fleurdelys form combos unlocks immense potential.",
+      "Future-proof — only DPS who maximizes both Aero DMG and Aero Erosion DMG buffs."
+    ],
+    "weaknesses": [
+      "Limited support roster — scales off HP, so ATK-boosting supports (like Rejuvenating Glow) are less effective.",
+      "Hard to buff — no support sets increase HP, relies on Gusts of Welkin buffs.",
+      "High Energy Regen requirement — needs 115-120% to comfortably use Liberation each rotation."
     ],
     "synergy": [
       {
-        "title": "Sub DPS Options",
-        "description": "Ciaccona provides Cartethiya with Aero Erosion Amplify... Alternatively, as a budget option, Sanhua may be used...",
+        "title": "Sub DPS",
+        "description": "Ciaccona is the quintessential sub-DPS, providing consistent off-field Aero Erosion and multiple Aero DMG buffs. Without Ciaccona, Sanhua offers Basic Attack DMG Amplification and quick rotations, or Aalto can fill the role.",
         "members": [
           "Ciaccona",
-          "Sanhua"
+          "Sanhua",
+          "Aalto"
         ]
       },
       {
-        "title": "Healer Options",
-        "description": "Rover: Aero or Chisa would increase the maximum stacks... Alternatively, Shorekeeper may be used...",
+        "title": "Support / Healer",
+        "description": "Chisa provides consistent heals, DEF reduction via Havoc Bane and Outro, and increases max Erosion stacks — slightly outperforming Rover (Aero) with Kumokiri. Rover (Aero) offers healing and a unique Outro that increases Erosion stack limit. Shorekeeper works for Crit/DMG buffs only.",
         "members": [
-          "Rover: Aero",
           "Chisa",
+          "Rover (Aero)",
           "Shorekeeper"
         ]
       }
     ],
     "sequences": [
       {
+        "node": "S1",
+        "rating": "Good",
+        "desc": "Gain Zeal on defeating Erosion-afflicted targets. Conviction milestones grant 25% Crit DMG each (up to 4 stacks, 15s)."
+      },
+      {
         "node": "S2",
-        "desc": "Allows Cartethiya to increase the max stack of Aero Erosion from 3 -> 6 on her own."
+        "rating": "Great",
+        "desc": "Casting Liberation increases max Aero Erosion stacks by 3 and inflicts 3 stacks on nearby targets. Basic/Heavy/Dodge/Intro multipliers +50%, Mid-air +200%."
       },
       {
         "node": "S3",
-        "desc": "Fleurdelys certain attacks can now apply 2 stacks of Aero Erosion."
+        "rating": "Amazing",
+        "desc": "Best stopping point. Fleurdelys attacks now inflict 2 Aero Erosion stacks, reducing reliance on off-field Erosion applicators. Blade of Howling Squall multiplier +100%."
+      },
+      {
+        "node": "S4",
+        "rating": "Good",
+        "desc": "When any team member inflicts a negative status, all Resonators gain 20% All-Attribute DMG Bonus for 20s."
+      },
+      {
+        "node": "S5",
+        "rating": "OK",
+        "desc": "Survive fatal blow with 20% HP shield (10s, 10min CD). Liberation HP cost reduced to 25%."
       },
       {
         "node": "S6",
-        "desc": "Upon casting [Res. Liberation - Blade of Howling Squall], apply max Aero Erosion stacks."
+        "rating": "Amazing",
+        "desc": "Blade of Howling Squall raises Erosion to max and no longer removes stacks. Aero Erosion on max-stacked targets triggers Erosion DMG. Fleurdelys DMG +40%."
       }
     ],
-    "pullPriority": "Cartethiya > Ciaccona > Defier's Thorn (Sig) > S2 > S3 > Woodland Aria",
+    "pullPriority": "Cartethyia > Ciaccona > Defier's Thorn (Sig) > S2 > S3 > Woodland Aria",
     "teams": [
       {
+        "name": "Premium Erosion Team",
         "members": [
-          "Cartethiya",
+          "Cartethyia",
           "Ciaccona",
-          "Shorekeeper"
-        ]
+          "Chisa"
+        ],
+        "note": "Best team. Chisa provides heals, DEF reduction, and increases Erosion stack limit. Ciaccona enables consistent off-field Erosion and Aero DMG buffs."
+      },
+      {
+        "name": "Non-Premium Team",
+        "members": [
+          "Cartethyia",
+          "Sanhua",
+          "Rover (Aero)"
+        ],
+        "note": "Budget team. Sanhua provides Basic ATK DMG Amplification. Rover (Aero) heals and increases Erosion stack limit with Outro. Requires manual Erosion stack management."
       }
     ],
     "images": {
-      "splash": "/images/characters/cartethiya-splash.webp",
-      "icon": "/images/characters/cartethiya-icon.webp"
+      "splash": "/images/characters/cartethyia-splash.webp",
+      "icon": "/images/characters/cartethyia-icon.webp"
     }
   },
   {
