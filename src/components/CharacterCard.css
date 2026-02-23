@@ -25,7 +25,7 @@
 
 .card-image-wrap {
     position: relative;
-    aspect-ratio: 1;
+    aspect-ratio: 2 / 3;
     overflow: hidden;
 }
 

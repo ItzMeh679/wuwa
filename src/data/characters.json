@@ -1,5 +1,163 @@
 [
   {
+    "id": "cartethiya",
+    "name": "Cartethiya",
+    "title": "Aero Resonator",
+    "rarity": 5,
+    "element": "aero",
+    "weaponType": "pistols",
+    "role": "Sub DPS",
+    "stats": {
+      "level90": {
+        "hp": 35000,
+        "atk": 0,
+        "def": 0
+      }
+    },
+    "detailedStats": {
+      "hp": "35,000+",
+      "energyRegen": "100-110%",
+      "critWeapon": "75% : 310%",
+      "critNonWeapon": "70% : 270%"
+    },
+    "endgameRating": {
+      "tower": "Top Tier",
+      "wastes": "Top Tier"
+    },
+    "materials": {
+      "ascension": [
+        {
+          "name": "Roaring Rock Fist",
+          "count": 46,
+          "img": "item_roaring_rock_fist"
+        },
+        {
+          "name": "Iris",
+          "count": 60,
+          "img": "item_iris"
+        },
+        {
+          "name": "Mystic Enhancement",
+          "count": 26,
+          "img": "item_mystic"
+        }
+      ],
+      "forte": [
+        {
+          "name": "Cadence Seed",
+          "count": "29 / 40 / 52 / 61",
+          "img": "item_cadence_seed"
+        },
+        {
+          "name": "Monument Bell",
+          "count": "25 / 28 / 55 / 67",
+          "img": "item_monument_bell"
+        }
+      ]
+    },
+    "recommendedWeapons": [
+      {
+        "w": "Defier's Thorn",
+        "r": 5
+      },
+      {
+        "w": "Red Spring",
+        "r": 5
+      },
+      {
+        "w": "Blazing Brilliance",
+        "r": 5
+      },
+      {
+        "w": "Emerald of Genesis",
+        "r": 5
+      },
+      {
+        "w": "Feather Edge",
+        "r": 5
+      },
+      {
+        "w": "Guardian Sword",
+        "r": 4
+      }
+    ],
+    "recommendedEchoSets": [
+      {
+        "s": "5-pc. Windward Pilgrimage",
+        "a": "Reminiscence: Fleurdelys"
+      }
+    ],
+    "statPriority": {
+      "main": {
+        "echo4": "Crit. Rate | Crit. DMG",
+        "echo3": "Aero DMG Bonus",
+        "echo1": "HP%"
+      },
+      "sub": [
+        "Crit. Rate / Crit. DMG",
+        "HP%",
+        "Basic%",
+        "Flat HP",
+        "Liberation%",
+        "Energy Regen (110%)"
+      ]
+    },
+    "fortePriority": [
+      "Forte Circuit",
+      "Res. Liberation",
+      "Normal ATK",
+      "Intro Skill",
+      "Res. Skill"
+    ],
+    "synergy": [
+      {
+        "title": "Sub DPS Options",
+        "description": "Ciaccona provides Cartethiya with Aero Erosion Amplify... Alternatively, as a budget option, Sanhua may be used...",
+        "members": [
+          "Ciaccona",
+          "Sanhua"
+        ]
+      },
+      {
+        "title": "Healer Options",
+        "description": "Rover: Aero or Chisa would increase the maximum stacks... Alternatively, Shorekeeper may be used...",
+        "members": [
+          "Rover: Aero",
+          "Chisa",
+          "Shorekeeper"
+        ]
+      }
+    ],
+    "sequences": [
+      {
+        "node": "S2",
+        "desc": "Allows Cartethiya to increase the max stack of Aero Erosion from 3 -> 6 on her own."
+      },
+      {
+        "node": "S3",
+        "desc": "Fleurdelys certain attacks can now apply 2 stacks of Aero Erosion."
+      },
+      {
+        "node": "S6",
+        "desc": "Upon casting [Res. Liberation - Blade of Howling Squall], apply max Aero Erosion stacks."
+      }
+    ],
+    "pullPriority": "Cartethiya > Ciaccona > Defier's Thorn (Sig) > S2 > S3 > Woodland Aria",
+    "teams": [
+      {
+        "members": [
+          "Cartethiya",
+          "Ciaccona",
+          "Shorekeeper"
+        ]
+      }
+    ],
+    "images": {
+      "splash": "/images/characters/cartethiya-splash.webp",
+      "icon": "/images/characters/cartethiya-icon.webp"
+    }
+  },
+  {
     "id": "jiyan",
     "name": "Jiyan",
     "title": "Verdant Summit's Commander",

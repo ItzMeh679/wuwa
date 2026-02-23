@@ -1,12 +1,12 @@
 import { Link } from 'react-router-dom'
-import { getCharacterIcon, ELEMENT_COLORS, ELEMENT_ICONS } from '../utils/images'
+import { getCharacterCard, ELEMENT_COLORS, ELEMENT_ICONS } from '../utils/images'
 import './CharacterCard.css'
 
 export default function CharacterCard({ character }) {
     const { id, name, rarity, element, weaponType, role } = character
     const color = ELEMENT_COLORS[element] || '#fff'
     const rarityClass = rarity === 5 ? 'r5' : 'r4'
-    const iconUrl = getCharacterIcon(id)
+    const iconUrl = getCharacterCard(id) || getCharacterCard(name)
 
     return (
         <Link to={`/characters/${id}`} className={`character-card ${rarityClass}`} style={{ '--element-color': color }}>
